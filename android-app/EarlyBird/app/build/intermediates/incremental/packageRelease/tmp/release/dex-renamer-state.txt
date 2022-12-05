@@ -1,0 +1,4 @@
+#Tue Jul 20 12:25:30 IST 2021
+base.0=/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="Gradle: com.msquare.widget.mprogressbar:mprogressbar:1.1.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../caches/transforms-2/files-2.1/28b4a09b64e76192c3e69ccc03cfa715/jetified-mprogressbar-1.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../caches/transforms-2/files-2.1/28b4a09b64e76192c3e69ccc03cfa715/jetified-mprogressbar-1.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../caches/transforms-2/files-2.1/28b4a09b64e76192c3e69ccc03cfa715/jetified-mprogressbar-1.1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/Downloads/caches/transforms-2/files-2.1/f85c54e460d33fae81606f1ea0057842/jetified-mprogressbar-1.1.0/res" />
+      <root url="file://$USER_HOME$/Downloads/caches/transforms-2/files-2.1/f85c54e460d33fae81606f1ea0057842/jetified-mprogressbar-1.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/Downloads/caches/transforms-2/files-2.1/f85c54e460d33fae81606f1ea0057842/jetified-mprogressbar-1.1.0/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9bc396d2d20b476f7133092dfd50d3f6/jetified-mprogressbar-1.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9bc396d2d20b476f7133092dfd50d3f6/jetified-mprogressbar-1.1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9bc396d2d20b476f7133092dfd50d3f6/jetified-mprogressbar-1.1.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../caches/modules-2/files-2.1/com.msquare.widget.mprogressbar/mprogressbar/1.1.0/9d6e01defda88ebc86353a4b17d496525ccd76ed/mprogressbar-1.1.0-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/caches/modules-2/files-2.1/com.msquare.widget.mprogressbar/mprogressbar/1.1.0/9d6e01defda88ebc86353a4b17d496525ccd76ed/mprogressbar-1.1.0-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.msquare.widget.mprogressbar/mprogressbar/1.1.0/9d6e01defda88ebc86353a4b17d496525ccd76ed/mprogressbar-1.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../caches/modules-2/files-2.1/com.msquare.widget.mprogressbar/mprogressbar/1.1.0/e91d70b3d5d011c03c46419e9adb0ae35d629478/mprogressbar-1.1.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/caches/modules-2/files-2.1/com.msquare.widget.mprogressbar/mprogressbar/1.1.0/e91d70b3d5d011c03c46419e9adb0ae35d629478/mprogressbar-1.1.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.msquare.widget.mprogressbar/mprogressbar/1.1.0/e91d70b3d5d011c03c46419e9adb0ae35d629478/mprogressbar-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

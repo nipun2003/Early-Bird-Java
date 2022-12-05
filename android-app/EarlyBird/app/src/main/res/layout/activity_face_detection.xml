@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00000000">
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/black"
+        android:orientation="vertical">
+
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:layout_alignParentTop="true"
+            android:background="@color/tfe_semi_transparent">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/tfl2_logo"
+                android:visibility="gone" />
+
+        </androidx.appcompat.widget.Toolbar>
+
+    </RelativeLayout>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end|top"
+        android:layout_margin="16dp"
+        android:backgroundTint="@color/white"
+        app:srcCompat="@drawable/ic_baseline_switch_camera_24" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:paddingBottom="@dimen/marginStartDetector"
+        android:background="@drawable/bottom_sheet_bg">
+        <TextView
+            android:id="@+id/mapoutProgress"
+            android:layout_width="54dp"
+            android:layout_height="54dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginEnd="10dp"
+            android:layout_marginTop="@dimen/marginStartDetector"
+            android:text="120"
+            android:gravity="center"
+            android:textSize="@dimen/mainTextSizeDetector"
+            android:background="@drawable/mapout_time_bg"
+            android:textColor="@color/yellowish_bg"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/marginStartDetector"
+            android:orientation="vertical"
+            android:layout_below="@+id/mapoutProgress">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/instruction"
+                android:textSize="@dimen/mainTextSizeDetector"
+                android:layout_marginStart="@dimen/marginStartDetector"
+                android:padding="3dp"
+                android:textColor="@color/text_color"
+                android:textStyle="bold"/>
+            <LinearLayout
+                android:layout_marginTop="@dimen/marginStartDetector"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/marginStartDetector"
+                android:orientation="horizontal">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="1. "
+                    android:textColor="@color/text_color"
+                    android:textSize="@dimen/textSizeNormalDetector"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Hold your camera in front of you such that your face is detected ."
+                    android:textColor="@color/text_color"
+                    android:textSize="@dimen/textSizeNormalDetector"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_marginStart="@dimen/marginStartDetector"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="2. "
+                    android:textColor="@color/text_color"
+                    android:textSize="@dimen/textSizeNormalDetector"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Start brushing Slowly, do not rush ."
+                    android:textColor="@color/text_color"
+                    android:textSize="@dimen/textSizeNormalDetector"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/marginStartDetector"
+                android:orientation="horizontal">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="3. "
+                    android:textColor="@color/text_color"
+                    android:textSize="@dimen/textSizeNormalDetector"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="After few seconds of your successfull brushing, the alarm will automatically stop and App will close ."
+                    android:textColor="@color/text_color"
+                    android:textSize="@dimen/textSizeNormalDetector"/>
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+    <FrameLayout
+        android:id="@+id/container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_anchor="@+id/relativeLayout2"
+        app:layout_anchorGravity="center"
+        tools:context="com.underdogdeveloper.earlybird.Activities.FaceDetectionActivity" />
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

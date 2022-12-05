@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="Gradle: com.wonderkiln:camerakit:0.13.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/Downloads/caches/transforms-2/files-2.1/ae71b668dd6eb4bed10d127413380b9c/jetified-camerakit-0.13.1/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4c503dc7b1d88f6973740fd5c5f716ac/jetified-camerakit-0.13.1/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/af27958e355f0fe90ad9eb52d8b83af0/jetified-camerakit-0.13.1/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9e619a0a7af6700e5f26c13d70d54255/jetified-camerakit-0.13.1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/caches/transforms-2/files-2.1/ae71b668dd6eb4bed10d127413380b9c/jetified-camerakit-0.13.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/caches/transforms-2/files-2.1/ae71b668dd6eb4bed10d127413380b9c/jetified-camerakit-0.13.1/res" />
+      <root url="file://$USER_HOME$/Downloads/caches/transforms-2/files-2.1/ae71b668dd6eb4bed10d127413380b9c/jetified-camerakit-0.13.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4c503dc7b1d88f6973740fd5c5f716ac/jetified-camerakit-0.13.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4c503dc7b1d88f6973740fd5c5f716ac/jetified-camerakit-0.13.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4c503dc7b1d88f6973740fd5c5f716ac/jetified-camerakit-0.13.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/af27958e355f0fe90ad9eb52d8b83af0/jetified-camerakit-0.13.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/af27958e355f0fe90ad9eb52d8b83af0/jetified-camerakit-0.13.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/af27958e355f0fe90ad9eb52d8b83af0/jetified-camerakit-0.13.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9e619a0a7af6700e5f26c13d70d54255/jetified-camerakit-0.13.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9e619a0a7af6700e5f26c13d70d54255/jetified-camerakit-0.13.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9e619a0a7af6700e5f26c13d70d54255/jetified-camerakit-0.13.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

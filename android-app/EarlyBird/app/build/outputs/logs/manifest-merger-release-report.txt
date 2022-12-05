@@ -1,0 +1,797 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:2:1-84:12
+INJECTED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:2:1-84:12
+INJECTED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:2:1-84:12
+INJECTED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:2:1-84:12
+MERGED from [com.sdsmdg.harjot:croller:1.0.7] /home/prafull/.gradle/caches/transforms-2/files-2.1/e0483d3824150a8470777eea7ce2cf31/jetified-croller-1.0.7/AndroidManifest.xml:2:1-17:12
+MERGED from [com.msquare.widget.mprogressbar:mprogressbar:1.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9bc396d2d20b476f7133092dfd50d3f6/jetified-mprogressbar-1.1.0/AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.android.material:material:1.3.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/5fd96a3ea066fda4a4604090478accb7/material-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/prafull/.gradle/caches/transforms-2/files-2.1/5e2773820ccd614b14186b52fa2d4d3e/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.wonderkiln:camerakit:0.13.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/af27958e355f0fe90ad9eb52d8b83af0/jetified-camerakit-0.13.1/AndroidManifest.xml:2:1-27:12
+MERGED from [com.airbnb.android:lottie:2.5.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/b70d4380d939e96cbe4bfafd1e9eb119/jetified-lottie-2.5.0/AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/999d0ab2f1d4f203c91e2a21da3072aa/appcompat-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e169194cad84365562a9f382ec8600ce/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/0f38f49c0cca29389c3ed20706c438db/jetified-firebase-analytics-19.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-ml-vision:23.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9ef9910e8c63f44804b59c959b9c487c/jetified-firebase-ml-vision-23.0.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.1.7] /home/prafull/.gradle/caches/transforms-2/files-2.1/5957eff893f5969f99500345301bd1bf/jetified-play-services-mlkit-face-detection-16.1.7/AndroidManifest.xml:2:1-18:12
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /home/prafull/.gradle/caches/transforms-2/files-2.1/e12564c5108dc7df3acd3b608540b396/jetified-tensorflow-lite-0.0.0-nightly/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.mlkit:vision-common:16.3.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/6f6cf929c322958309c685d51dc2f2f3/jetified-vision-common-16.3.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.mlkit:common:17.1.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/749cccfd7b39045a1549aaa2bc2b2dd3/jetified-common-17.1.1/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /home/prafull/.gradle/caches/transforms-2/files-2.1/c5db305ce4ab76c8c706c500d1f205a8/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/8d2a66c72c3fce2424d3a803bbbddcfe/jetified-firebase-encoders-json-17.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-ml-common:21.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/f950402db7cffaf1dae71187e3a60511/jetified-firebase-ml-common-21.0.0/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/8b79a5462243e267f2798afb4d82885f/jetified-firebase-iid-21.1.0/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/693a3366ee531a6a1802b2ca4b396e3f/jetified-play-services-measurement-api-19.0.0/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/1251f431fa1cdcc135e150ea6d84a29a/jetified-firebase-installations-17.0.0/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/ef8b0316f80304d8bf2f413ed9f71732/jetified-firebase-common-20.0.0/AndroidManifest.xml:15:1-40:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/96faf7b791378fc76f63153eca6dcc2a/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/f07c27d7655dc4d51d1be123ad0ecfcb/jetified-play-services-auth-base-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-vision:18.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/760c23ef14b68b49e86348a230ccc588/jetified-play-services-vision-18.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-image-label:18.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9d3a4a73252239192bd899674e715940/jetified-play-services-vision-image-label-18.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:18.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9ae97cb43b283e84dce2df9999c070f2/jetified-play-services-vision-common-18.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/3c7b3c75edfc2615126420717348b305/jetified-play-services-clearcut-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/448ae3a5709c69b70dc1e663e7e1c99e/jetified-play-services-flags-17.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/2ed59bbc2db695e48fa717a007fc1234/jetified-play-services-phenotype-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/a284857c9c60b07751a3fa18d5c0198c/jetified-play-services-base-17.6.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e2f8e045e2bfa31a157ea23b9c213426/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/922cadccfd09000133895d92eb3cf548/jetified-play-services-measurement-sdk-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/f0c229457008e1f9acfee7b280ff75ea/jetified-firebase-installations-interop-17.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9233ebf747a6a012b634e7fae8213459/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/8822289d6af5757425b6d311e115b63d/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/3415299bbbc5edf93b4e5aca0dac3b87/jetified-play-services-tasks-17.2.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/ed09d4beef712ef5a2557a1c222f70c3/jetified-play-services-measurement-impl-19.0.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/a26ec59f03a6211055d16f72fb897660/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/26b2dd075624ff93f377d292cb856491/jetified-play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/42b573fa655b84928c021116b41a3586/jetified-play-services-measurement-base-19.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/74efa35be48a6c423cfec158bacee425/jetified-play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/29a224e3651ad1347309861c3f92c638/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/b84ee5920effebd3aad033167d08b830/jetified-play-services-basement-17.6.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.3.4] /home/prafull/.gradle/caches/transforms-2/files-2.1/3e37bd97cc2253999ce733c8473be95a/fragment-1.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] /home/prafull/.gradle/caches/transforms-2/files-2.1/cc40de9a985e3be46bf8404867b12403/jetified-activity-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/a7695cb30843c37472f9eb7dfa18aeb1/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/c8ce7c7feeb32613fef6822b3b564976/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/b06246c3e8ddcef9a350b5b58b79b840/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/607b0f3413a331f547ca03cc2b7c2caf/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9ed58ec173e899eba66ec4719abebc81/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9d043ad2b80a8b48ef7a8d22a4afcd62/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/2397857c03f10fdad45462ae08fef2b3/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/815f2ca496f6d2efd847a954c57e40d4/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/4b5f953878f39997ea172f88852252fa/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/41c57676c565b6e63746f28b26b4ab91/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/c93cb483d435115c85861969384c9c22/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/b8111c0f8f81a34fee955f70ca18a7a8/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/647753457a6cd324b54f13ac3debee3e/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/f0d5419c4d660aa2528805f1cfdd0952/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/34af3c77e42a01275a6493f45d93f0da/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e85b55d01e545eb5f9228a6ca7beca90/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e8d52f9262c65af0d2be3d985e356cc5/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/de4504a44ff1c2eebbafc7766d076565/core-1.5.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/ca2f21f0904e0cd28d0d578fc7e44fc6/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/2742b7bc45b7dea01e1b992c3a769236/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/80882019693f499ea4a187876cd11705/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/ca971a410a624b6506d801074b66ea95/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/77f1ea4ce57801fdc27cf13d7f8fb42e/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/8999fc497be9d5b8dfb8c7fd439e907a/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/57174d3beca5c63fda4cfb8e241c5dfb/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /home/prafull/.gradle/caches/transforms-2/files-2.1/d3c44da04be5ca732b32c9acba24fc3d/jetified-transport-runtime-2.2.6/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/4e004923a775180c1525d653cada4959/jetified-transport-api-2.2.1/AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/7db5a34e07a8e6159e7e1ab900eaa2f0/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/f751a038f55240a48448a285dce4ce86/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/c44f3f0e6c34d200d927ac5bedf5196e/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/17413e3059c8b74d60bba032b64103ad/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/d2770eb6bdd0a0bc72db9781df49e18b/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/47a60da7c5f452bf21710dc49e5d67a4/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/be0f99f6e7dcab73224bae1a4f872902/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/a3379b634ecf73a1ce32826ffdb9d38b/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/76dc6ba3c9271c66c4373d89457ee185/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/65f27d3679f0276cdc68fc2bf621ed4f/jetified-firebase-components-17.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/7743680fe8b208c3b81ff17fa06d3c1e/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:2:1-84:12
+INJECTED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:2:1-84:12
+INJECTED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:2:1-84:12
+	package
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml
+		INJECTED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:2:1-84:12
+		INJECTED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:2:1-84:12
+		INJECTED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:6:5-77
+	android:name
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:6:22-74
+uses-permission#android.permission.VIBRATE
+ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:7:22-63
+uses-permission#android.permission.USE_FULL_SCREEN_INTENT
+ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.CAMERA
+ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:9:5-65
+MERGED from [com.wonderkiln:camerakit:0.13.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/af27958e355f0fe90ad9eb52d8b83af0/jetified-camerakit-0.13.1/AndroidManifest.xml:11:5-65
+MERGED from [com.wonderkiln:camerakit:0.13.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/af27958e355f0fe90ad9eb52d8b83af0/jetified-camerakit-0.13.1/AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:9:22-62
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:10:5-68
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/8b79a5462243e267f2798afb4d82885f/jetified-firebase-iid-21.1.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/8b79a5462243e267f2798afb4d82885f/jetified-firebase-iid-21.1.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/693a3366ee531a6a1802b2ca4b396e3f/jetified-play-services-measurement-api-19.0.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/693a3366ee531a6a1802b2ca4b396e3f/jetified-play-services-measurement-api-19.0.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e2f8e045e2bfa31a157ea23b9c213426/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e2f8e045e2bfa31a157ea23b9c213426/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9233ebf747a6a012b634e7fae8213459/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9233ebf747a6a012b634e7fae8213459/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/ed09d4beef712ef5a2557a1c222f70c3/jetified-play-services-measurement-impl-19.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/ed09d4beef712ef5a2557a1c222f70c3/jetified-play-services-measurement-impl-19.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/26b2dd075624ff93f377d292cb856491/jetified-play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/26b2dd075624ff93f377d292cb856491/jetified-play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:10:22-65
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:11:22-77
+application
+ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:13:5-82:19
+MERGED from [com.sdsmdg.harjot:croller:1.0.7] /home/prafull/.gradle/caches/transforms-2/files-2.1/e0483d3824150a8470777eea7ce2cf31/jetified-croller-1.0.7/AndroidManifest.xml:11:5-15:19
+MERGED from [com.sdsmdg.harjot:croller:1.0.7] /home/prafull/.gradle/caches/transforms-2/files-2.1/e0483d3824150a8470777eea7ce2cf31/jetified-croller-1.0.7/AndroidManifest.xml:11:5-15:19
+MERGED from [com.msquare.widget.mprogressbar:mprogressbar:1.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9bc396d2d20b476f7133092dfd50d3f6/jetified-mprogressbar-1.1.0/AndroidManifest.xml:11:5-14:19
+MERGED from [com.msquare.widget.mprogressbar:mprogressbar:1.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9bc396d2d20b476f7133092dfd50d3f6/jetified-mprogressbar-1.1.0/AndroidManifest.xml:11:5-14:19
+MERGED from [com.google.android.material:material:1.3.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/5fd96a3ea066fda4a4604090478accb7/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/5fd96a3ea066fda4a4604090478accb7/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/prafull/.gradle/caches/transforms-2/files-2.1/5e2773820ccd614b14186b52fa2d4d3e/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/prafull/.gradle/caches/transforms-2/files-2.1/5e2773820ccd614b14186b52fa2d4d3e/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [com.wonderkiln:camerakit:0.13.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/af27958e355f0fe90ad9eb52d8b83af0/jetified-camerakit-0.13.1/AndroidManifest.xml:25:5-20
+MERGED from [com.wonderkiln:camerakit:0.13.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/af27958e355f0fe90ad9eb52d8b83af0/jetified-camerakit-0.13.1/AndroidManifest.xml:25:5-20
+MERGED from [com.airbnb.android:lottie:2.5.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/b70d4380d939e96cbe4bfafd1e9eb119/jetified-lottie-2.5.0/AndroidManifest.xml:12:5-20
+MERGED from [com.airbnb.android:lottie:2.5.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/b70d4380d939e96cbe4bfafd1e9eb119/jetified-lottie-2.5.0/AndroidManifest.xml:12:5-20
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/0f38f49c0cca29389c3ed20706c438db/jetified-firebase-analytics-19.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/0f38f49c0cca29389c3ed20706c438db/jetified-firebase-analytics-19.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-ml-vision:23.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9ef9910e8c63f44804b59c959b9c487c/jetified-firebase-ml-vision-23.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-ml-vision:23.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9ef9910e8c63f44804b59c959b9c487c/jetified-firebase-ml-vision-23.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.1.7] /home/prafull/.gradle/caches/transforms-2/files-2.1/5957eff893f5969f99500345301bd1bf/jetified-play-services-mlkit-face-detection-16.1.7/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.1.7] /home/prafull/.gradle/caches/transforms-2/files-2.1/5957eff893f5969f99500345301bd1bf/jetified-play-services-mlkit-face-detection-16.1.7/AndroidManifest.xml:8:5-16:19
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /home/prafull/.gradle/caches/transforms-2/files-2.1/e12564c5108dc7df3acd3b608540b396/jetified-tensorflow-lite-0.0.0-nightly/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /home/prafull/.gradle/caches/transforms-2/files-2.1/e12564c5108dc7df3acd3b608540b396/jetified-tensorflow-lite-0.0.0-nightly/AndroidManifest.xml:10:5-20
+MERGED from [com.google.mlkit:vision-common:16.3.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/6f6cf929c322958309c685d51dc2f2f3/jetified-vision-common-16.3.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:vision-common:16.3.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/6f6cf929c322958309c685d51dc2f2f3/jetified-vision-common-16.3.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:common:17.1.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/749cccfd7b39045a1549aaa2bc2b2dd3/jetified-common-17.1.1/AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.mlkit:common:17.1.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/749cccfd7b39045a1549aaa2bc2b2dd3/jetified-common-17.1.1/AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /home/prafull/.gradle/caches/transforms-2/files-2.1/c5db305ce4ab76c8c706c500d1f205a8/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /home/prafull/.gradle/caches/transforms-2/files-2.1/c5db305ce4ab76c8c706c500d1f205a8/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-ml-common:21.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/f950402db7cffaf1dae71187e3a60511/jetified-firebase-ml-common-21.0.0/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-ml-common:21.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/f950402db7cffaf1dae71187e3a60511/jetified-firebase-ml-common-21.0.0/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/8b79a5462243e267f2798afb4d82885f/jetified-firebase-iid-21.1.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/8b79a5462243e267f2798afb4d82885f/jetified-firebase-iid-21.1.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/693a3366ee531a6a1802b2ca4b396e3f/jetified-play-services-measurement-api-19.0.0/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/693a3366ee531a6a1802b2ca4b396e3f/jetified-play-services-measurement-api-19.0.0/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/1251f431fa1cdcc135e150ea6d84a29a/jetified-firebase-installations-17.0.0/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/1251f431fa1cdcc135e150ea6d84a29a/jetified-firebase-installations-17.0.0/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/ef8b0316f80304d8bf2f413ed9f71732/jetified-firebase-common-20.0.0/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/ef8b0316f80304d8bf2f413ed9f71732/jetified-firebase-common-20.0.0/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-vision:18.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/760c23ef14b68b49e86348a230ccc588/jetified-play-services-vision-18.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:18.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/760c23ef14b68b49e86348a230ccc588/jetified-play-services-vision-18.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-image-label:18.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9d3a4a73252239192bd899674e715940/jetified-play-services-vision-image-label-18.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-image-label:18.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9d3a4a73252239192bd899674e715940/jetified-play-services-vision-image-label-18.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:18.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9ae97cb43b283e84dce2df9999c070f2/jetified-play-services-vision-common-18.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:18.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9ae97cb43b283e84dce2df9999c070f2/jetified-play-services-vision-common-18.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/3c7b3c75edfc2615126420717348b305/jetified-play-services-clearcut-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/3c7b3c75edfc2615126420717348b305/jetified-play-services-clearcut-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/2ed59bbc2db695e48fa717a007fc1234/jetified-play-services-phenotype-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/2ed59bbc2db695e48fa717a007fc1234/jetified-play-services-phenotype-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/a284857c9c60b07751a3fa18d5c0198c/jetified-play-services-base-17.6.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/a284857c9c60b07751a3fa18d5c0198c/jetified-play-services-base-17.6.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e2f8e045e2bfa31a157ea23b9c213426/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e2f8e045e2bfa31a157ea23b9c213426/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/922cadccfd09000133895d92eb3cf548/jetified-play-services-measurement-sdk-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/922cadccfd09000133895d92eb3cf548/jetified-play-services-measurement-sdk-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/8822289d6af5757425b6d311e115b63d/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/8822289d6af5757425b6d311e115b63d/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/3415299bbbc5edf93b4e5aca0dac3b87/jetified-play-services-tasks-17.2.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/3415299bbbc5edf93b4e5aca0dac3b87/jetified-play-services-tasks-17.2.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/ed09d4beef712ef5a2557a1c222f70c3/jetified-play-services-measurement-impl-19.0.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/ed09d4beef712ef5a2557a1c222f70c3/jetified-play-services-measurement-impl-19.0.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/a26ec59f03a6211055d16f72fb897660/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/a26ec59f03a6211055d16f72fb897660/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/42b573fa655b84928c021116b41a3586/jetified-play-services-measurement-base-19.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/42b573fa655b84928c021116b41a3586/jetified-play-services-measurement-base-19.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/74efa35be48a6c423cfec158bacee425/jetified-play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/74efa35be48a6c423cfec158bacee425/jetified-play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/29a224e3651ad1347309861c3f92c638/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/29a224e3651ad1347309861c3f92c638/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/b84ee5920effebd3aad033167d08b830/jetified-play-services-basement-17.6.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/b84ee5920effebd3aad033167d08b830/jetified-play-services-basement-17.6.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.5.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/de4504a44ff1c2eebbafc7766d076565/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/de4504a44ff1c2eebbafc7766d076565/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /home/prafull/.gradle/caches/transforms-2/files-2.1/d3c44da04be5ca732b32c9acba24fc3d/jetified-transport-runtime-2.2.6/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /home/prafull/.gradle/caches/transforms-2/files-2.1/d3c44da04be5ca732b32c9acba24fc3d/jetified-transport-runtime-2.2.6/AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/7db5a34e07a8e6159e7e1ab900eaa2f0/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/7db5a34e07a8e6159e7e1ab900eaa2f0/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/de4504a44ff1c2eebbafc7766d076565/core-1.5.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:16:9-41
+	android:roundIcon
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:19:9-49
+activity#com.underdogdeveloper.earlybird.Activities.SettingsActivity
+ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:20:9-64
+	android:name
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:20:19-62
+activity#com.underdogdeveloper.earlybird.Activities.InfoActivity
+ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:21:9-22:53
+	android:theme
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:22:13-51
+	android:name
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:21:19-58
+activity#com.underdogdeveloper.earlybird.Activities.DetectorActivity
+ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:23:9-26:46
+	android:screenOrientation
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:25:13-49
+	android:theme
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:26:13-44
+	android:name
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:24:13-56
+activity#com.underdogdeveloper.earlybird.Activities.FaceDetectionActivity
+ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:27:9-69
+	android:name
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:27:19-67
+activity#com.underdogdeveloper.earlybird.Activities.ShowAlarmActivity
+ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:28:9-32:52
+	android:screenOrientation
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:32:13-49
+	android:configChanges
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:31:13-48
+	android:theme
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:30:13-51
+	android:name
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:29:13-57
+activity#com.underdogdeveloper.earlybird.Activities.SetMapoutActivity
+ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:33:9-37:47
+	android:screenOrientation
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:36:13-49
+	android:configChanges
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:35:13-48
+	android:theme
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:37:13-44
+	android:name
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:34:13-57
+activity#com.underdogdeveloper.earlybird.Activities.SetAlarmActivity
+ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:38:9-42:52
+	android:screenOrientation
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:42:13-49
+	android:configChanges
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:41:13-48
+	android:theme
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:40:13-51
+	android:name
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:39:13-56
+activity#com.underdogdeveloper.earlybird.Activities.MainActivity
+ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:43:9-52:20
+	android:screenOrientation
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:46:13-49
+	android:configChanges
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:45:13-48
+	android:name
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:44:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:47:13-51:29
+action#android.intent.action.MAIN
+ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:48:17-69
+	android:name
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:48:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:50:17-77
+	android:name
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:50:27-74
+receiver#com.underdogdeveloper.earlybird.BroadCasts.AlarmReciever
+ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:54:9-63:20
+	android:enabled
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:56:13-35
+	android:exported
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:58:13-36
+	android:directBootAware
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:57:13-43
+	android:name
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:55:13-53
+intent-filter#action:name:android.intent.action.NOTIFY+category:name:android.intent.category.DEFAULT
+ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:59:13-62:29
+action#android.intent.action.NOTIFY
+ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:60:17-71
+	android:name
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:60:25-68
+category#android.intent.category.DEFAULT
+ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:61:17-75
+	android:name
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:61:27-73
+receiver#com.underdogdeveloper.earlybird.BroadCasts.OnRebootReciever
+ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:65:9-72:20
+	android:name
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:65:19-62
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.LOCKED_BOOT_COMPLETED+action:name:android.intent.action.QUICKBOOT_POWERON+category:name:android.intent.category.DEFAULT
+ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:66:13-71:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:67:17-79
+	android:name
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:67:25-76
+action#android.intent.action.LOCKED_BOOT_COMPLETED
+ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:68:17-85
+	android:name
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:68:25-83
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:69:17-81
+	android:name
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:69:25-79
+service#com.underdogdeveloper.earlybird.service.AlarmService
+ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:74:9-57
+	android:name
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:74:18-54
+meta-data#preloaded_fonts
+ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:76:9-78:57
+	android:resource
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:78:13-54
+	android:name
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:77:13-43
+meta-data#com.google.mlkit.vision.DEPENDENCIES
+ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:79:9-81:36
+	android:value
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:81:13-33
+	android:name
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:80:13-64
+uses-sdk
+INJECTED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml
+INJECTED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml
+MERGED from [com.sdsmdg.harjot:croller:1.0.7] /home/prafull/.gradle/caches/transforms-2/files-2.1/e0483d3824150a8470777eea7ce2cf31/jetified-croller-1.0.7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.sdsmdg.harjot:croller:1.0.7] /home/prafull/.gradle/caches/transforms-2/files-2.1/e0483d3824150a8470777eea7ce2cf31/jetified-croller-1.0.7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.msquare.widget.mprogressbar:mprogressbar:1.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9bc396d2d20b476f7133092dfd50d3f6/jetified-mprogressbar-1.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.msquare.widget.mprogressbar:mprogressbar:1.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9bc396d2d20b476f7133092dfd50d3f6/jetified-mprogressbar-1.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.3.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/5fd96a3ea066fda4a4604090478accb7/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/5fd96a3ea066fda4a4604090478accb7/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/prafull/.gradle/caches/transforms-2/files-2.1/5e2773820ccd614b14186b52fa2d4d3e/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/prafull/.gradle/caches/transforms-2/files-2.1/5e2773820ccd614b14186b52fa2d4d3e/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.wonderkiln:camerakit:0.13.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/af27958e355f0fe90ad9eb52d8b83af0/jetified-camerakit-0.13.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.wonderkiln:camerakit:0.13.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/af27958e355f0fe90ad9eb52d8b83af0/jetified-camerakit-0.13.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.airbnb.android:lottie:2.5.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/b70d4380d939e96cbe4bfafd1e9eb119/jetified-lottie-2.5.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.airbnb.android:lottie:2.5.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/b70d4380d939e96cbe4bfafd1e9eb119/jetified-lottie-2.5.0/AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/999d0ab2f1d4f203c91e2a21da3072aa/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/999d0ab2f1d4f203c91e2a21da3072aa/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e169194cad84365562a9f382ec8600ce/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e169194cad84365562a9f382ec8600ce/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/0f38f49c0cca29389c3ed20706c438db/jetified-firebase-analytics-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/0f38f49c0cca29389c3ed20706c438db/jetified-firebase-analytics-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-ml-vision:23.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9ef9910e8c63f44804b59c959b9c487c/jetified-firebase-ml-vision-23.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-ml-vision:23.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9ef9910e8c63f44804b59c959b9c487c/jetified-firebase-ml-vision-23.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.1.7] /home/prafull/.gradle/caches/transforms-2/files-2.1/5957eff893f5969f99500345301bd1bf/jetified-play-services-mlkit-face-detection-16.1.7/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.1.7] /home/prafull/.gradle/caches/transforms-2/files-2.1/5957eff893f5969f99500345301bd1bf/jetified-play-services-mlkit-face-detection-16.1.7/AndroidManifest.xml:6:5-44
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /home/prafull/.gradle/caches/transforms-2/files-2.1/e12564c5108dc7df3acd3b608540b396/jetified-tensorflow-lite-0.0.0-nightly/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /home/prafull/.gradle/caches/transforms-2/files-2.1/e12564c5108dc7df3acd3b608540b396/jetified-tensorflow-lite-0.0.0-nightly/AndroidManifest.xml:7:5-8:41
+MERGED from [com.google.mlkit:vision-common:16.3.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/6f6cf929c322958309c685d51dc2f2f3/jetified-vision-common-16.3.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:vision-common:16.3.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/6f6cf929c322958309c685d51dc2f2f3/jetified-vision-common-16.3.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:17.1.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/749cccfd7b39045a1549aaa2bc2b2dd3/jetified-common-17.1.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:17.1.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/749cccfd7b39045a1549aaa2bc2b2dd3/jetified-common-17.1.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /home/prafull/.gradle/caches/transforms-2/files-2.1/c5db305ce4ab76c8c706c500d1f205a8/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /home/prafull/.gradle/caches/transforms-2/files-2.1/c5db305ce4ab76c8c706c500d1f205a8/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/8d2a66c72c3fce2424d3a803bbbddcfe/jetified-firebase-encoders-json-17.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/8d2a66c72c3fce2424d3a803bbbddcfe/jetified-firebase-encoders-json-17.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-ml-common:21.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/f950402db7cffaf1dae71187e3a60511/jetified-firebase-ml-common-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-ml-common:21.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/f950402db7cffaf1dae71187e3a60511/jetified-firebase-ml-common-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/8b79a5462243e267f2798afb4d82885f/jetified-firebase-iid-21.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/8b79a5462243e267f2798afb4d82885f/jetified-firebase-iid-21.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/693a3366ee531a6a1802b2ca4b396e3f/jetified-play-services-measurement-api-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/693a3366ee531a6a1802b2ca4b396e3f/jetified-play-services-measurement-api-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/1251f431fa1cdcc135e150ea6d84a29a/jetified-firebase-installations-17.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/1251f431fa1cdcc135e150ea6d84a29a/jetified-firebase-installations-17.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/ef8b0316f80304d8bf2f413ed9f71732/jetified-firebase-common-20.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/ef8b0316f80304d8bf2f413ed9f71732/jetified-firebase-common-20.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/96faf7b791378fc76f63153eca6dcc2a/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/96faf7b791378fc76f63153eca6dcc2a/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/f07c27d7655dc4d51d1be123ad0ecfcb/jetified-play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/f07c27d7655dc4d51d1be123ad0ecfcb/jetified-play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:18.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/760c23ef14b68b49e86348a230ccc588/jetified-play-services-vision-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:18.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/760c23ef14b68b49e86348a230ccc588/jetified-play-services-vision-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-image-label:18.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9d3a4a73252239192bd899674e715940/jetified-play-services-vision-image-label-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-image-label:18.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9d3a4a73252239192bd899674e715940/jetified-play-services-vision-image-label-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:18.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9ae97cb43b283e84dce2df9999c070f2/jetified-play-services-vision-common-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:18.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9ae97cb43b283e84dce2df9999c070f2/jetified-play-services-vision-common-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/3c7b3c75edfc2615126420717348b305/jetified-play-services-clearcut-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/3c7b3c75edfc2615126420717348b305/jetified-play-services-clearcut-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/448ae3a5709c69b70dc1e663e7e1c99e/jetified-play-services-flags-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/448ae3a5709c69b70dc1e663e7e1c99e/jetified-play-services-flags-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/2ed59bbc2db695e48fa717a007fc1234/jetified-play-services-phenotype-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/2ed59bbc2db695e48fa717a007fc1234/jetified-play-services-phenotype-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/a284857c9c60b07751a3fa18d5c0198c/jetified-play-services-base-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/a284857c9c60b07751a3fa18d5c0198c/jetified-play-services-base-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e2f8e045e2bfa31a157ea23b9c213426/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e2f8e045e2bfa31a157ea23b9c213426/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/922cadccfd09000133895d92eb3cf548/jetified-play-services-measurement-sdk-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/922cadccfd09000133895d92eb3cf548/jetified-play-services-measurement-sdk-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/f0c229457008e1f9acfee7b280ff75ea/jetified-firebase-installations-interop-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/f0c229457008e1f9acfee7b280ff75ea/jetified-firebase-installations-interop-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9233ebf747a6a012b634e7fae8213459/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9233ebf747a6a012b634e7fae8213459/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/8822289d6af5757425b6d311e115b63d/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/8822289d6af5757425b6d311e115b63d/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/3415299bbbc5edf93b4e5aca0dac3b87/jetified-play-services-tasks-17.2.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/3415299bbbc5edf93b4e5aca0dac3b87/jetified-play-services-tasks-17.2.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/ed09d4beef712ef5a2557a1c222f70c3/jetified-play-services-measurement-impl-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/ed09d4beef712ef5a2557a1c222f70c3/jetified-play-services-measurement-impl-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/a26ec59f03a6211055d16f72fb897660/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/a26ec59f03a6211055d16f72fb897660/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/26b2dd075624ff93f377d292cb856491/jetified-play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/26b2dd075624ff93f377d292cb856491/jetified-play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/42b573fa655b84928c021116b41a3586/jetified-play-services-measurement-base-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/42b573fa655b84928c021116b41a3586/jetified-play-services-measurement-base-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/74efa35be48a6c423cfec158bacee425/jetified-play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/74efa35be48a6c423cfec158bacee425/jetified-play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/29a224e3651ad1347309861c3f92c638/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/29a224e3651ad1347309861c3f92c638/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/b84ee5920effebd3aad033167d08b830/jetified-play-services-basement-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/b84ee5920effebd3aad033167d08b830/jetified-play-services-basement-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.4] /home/prafull/.gradle/caches/transforms-2/files-2.1/3e37bd97cc2253999ce733c8473be95a/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /home/prafull/.gradle/caches/transforms-2/files-2.1/3e37bd97cc2253999ce733c8473be95a/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /home/prafull/.gradle/caches/transforms-2/files-2.1/cc40de9a985e3be46bf8404867b12403/jetified-activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /home/prafull/.gradle/caches/transforms-2/files-2.1/cc40de9a985e3be46bf8404867b12403/jetified-activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/a7695cb30843c37472f9eb7dfa18aeb1/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/a7695cb30843c37472f9eb7dfa18aeb1/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/c8ce7c7feeb32613fef6822b3b564976/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/c8ce7c7feeb32613fef6822b3b564976/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/b06246c3e8ddcef9a350b5b58b79b840/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/b06246c3e8ddcef9a350b5b58b79b840/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/607b0f3413a331f547ca03cc2b7c2caf/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/607b0f3413a331f547ca03cc2b7c2caf/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9ed58ec173e899eba66ec4719abebc81/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9ed58ec173e899eba66ec4719abebc81/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9d043ad2b80a8b48ef7a8d22a4afcd62/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9d043ad2b80a8b48ef7a8d22a4afcd62/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/2397857c03f10fdad45462ae08fef2b3/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/2397857c03f10fdad45462ae08fef2b3/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/815f2ca496f6d2efd847a954c57e40d4/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/815f2ca496f6d2efd847a954c57e40d4/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/4b5f953878f39997ea172f88852252fa/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/4b5f953878f39997ea172f88852252fa/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/41c57676c565b6e63746f28b26b4ab91/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/41c57676c565b6e63746f28b26b4ab91/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/c93cb483d435115c85861969384c9c22/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/c93cb483d435115c85861969384c9c22/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/b8111c0f8f81a34fee955f70ca18a7a8/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/b8111c0f8f81a34fee955f70ca18a7a8/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/647753457a6cd324b54f13ac3debee3e/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/647753457a6cd324b54f13ac3debee3e/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/f0d5419c4d660aa2528805f1cfdd0952/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/f0d5419c4d660aa2528805f1cfdd0952/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/34af3c77e42a01275a6493f45d93f0da/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/34af3c77e42a01275a6493f45d93f0da/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e85b55d01e545eb5f9228a6ca7beca90/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e85b55d01e545eb5f9228a6ca7beca90/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e8d52f9262c65af0d2be3d985e356cc5/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e8d52f9262c65af0d2be3d985e356cc5/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/de4504a44ff1c2eebbafc7766d076565/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/de4504a44ff1c2eebbafc7766d076565/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/ca2f21f0904e0cd28d0d578fc7e44fc6/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/ca2f21f0904e0cd28d0d578fc7e44fc6/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/2742b7bc45b7dea01e1b992c3a769236/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/2742b7bc45b7dea01e1b992c3a769236/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/80882019693f499ea4a187876cd11705/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/80882019693f499ea4a187876cd11705/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/ca971a410a624b6506d801074b66ea95/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/ca971a410a624b6506d801074b66ea95/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/77f1ea4ce57801fdc27cf13d7f8fb42e/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/77f1ea4ce57801fdc27cf13d7f8fb42e/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/8999fc497be9d5b8dfb8c7fd439e907a/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/8999fc497be9d5b8dfb8c7fd439e907a/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/57174d3beca5c63fda4cfb8e241c5dfb/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/57174d3beca5c63fda4cfb8e241c5dfb/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /home/prafull/.gradle/caches/transforms-2/files-2.1/d3c44da04be5ca732b32c9acba24fc3d/jetified-transport-runtime-2.2.6/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /home/prafull/.gradle/caches/transforms-2/files-2.1/d3c44da04be5ca732b32c9acba24fc3d/jetified-transport-runtime-2.2.6/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/4e004923a775180c1525d653cada4959/jetified-transport-api-2.2.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/4e004923a775180c1525d653cada4959/jetified-transport-api-2.2.1/AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/7db5a34e07a8e6159e7e1ab900eaa2f0/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/7db5a34e07a8e6159e7e1ab900eaa2f0/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/f751a038f55240a48448a285dce4ce86/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/f751a038f55240a48448a285dce4ce86/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/c44f3f0e6c34d200d927ac5bedf5196e/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/c44f3f0e6c34d200d927ac5bedf5196e/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/17413e3059c8b74d60bba032b64103ad/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/17413e3059c8b74d60bba032b64103ad/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/d2770eb6bdd0a0bc72db9781df49e18b/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/d2770eb6bdd0a0bc72db9781df49e18b/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/47a60da7c5f452bf21710dc49e5d67a4/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/47a60da7c5f452bf21710dc49e5d67a4/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/be0f99f6e7dcab73224bae1a4f872902/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/be0f99f6e7dcab73224bae1a4f872902/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/a3379b634ecf73a1ce32826ffdb9d38b/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/a3379b634ecf73a1ce32826ffdb9d38b/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/76dc6ba3c9271c66c4373d89457ee185/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/76dc6ba3c9271c66c4373d89457ee185/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/65f27d3679f0276cdc68fc2bf621ed4f/jetified-firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/65f27d3679f0276cdc68fc2bf621ed4f/jetified-firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/7743680fe8b208c3b81ff17fa06d3c1e/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/7743680fe8b208c3b81ff17fa06d3c1e/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml
+INJECTED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml
+		INJECTED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml
+		ADDED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml
+		MERGED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml
+		INJECTED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.wonderkiln:camerakit:0.13.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/af27958e355f0fe90ad9eb52d8b83af0/jetified-camerakit-0.13.1/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [com.wonderkiln:camerakit:0.13.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/af27958e355f0fe90ad9eb52d8b83af0/jetified-camerakit-0.13.1/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [com.wonderkiln:camerakit:0.13.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/af27958e355f0fe90ad9eb52d8b83af0/jetified-camerakit-0.13.1/AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from [com.wonderkiln:camerakit:0.13.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/af27958e355f0fe90ad9eb52d8b83af0/jetified-camerakit-0.13.1/AndroidManifest.xml:12:22-68
+uses-feature#android.hardware.camera
+ADDED from [com.wonderkiln:camerakit:0.13.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/af27958e355f0fe90ad9eb52d8b83af0/jetified-camerakit-0.13.1/AndroidManifest.xml:14:5-60
+	android:name
+		ADDED from [com.wonderkiln:camerakit:0.13.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/af27958e355f0fe90ad9eb52d8b83af0/jetified-camerakit-0.13.1/AndroidManifest.xml:14:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.wonderkiln:camerakit:0.13.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/af27958e355f0fe90ad9eb52d8b83af0/jetified-camerakit-0.13.1/AndroidManifest.xml:15:5-17:36
+	android:required
+		ADDED from [com.wonderkiln:camerakit:0.13.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/af27958e355f0fe90ad9eb52d8b83af0/jetified-camerakit-0.13.1/AndroidManifest.xml:17:9-33
+	android:name
+		ADDED from [com.wonderkiln:camerakit:0.13.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/af27958e355f0fe90ad9eb52d8b83af0/jetified-camerakit-0.13.1/AndroidManifest.xml:16:9-57
+uses-feature#android.hardware.camera.front
+ADDED from [com.wonderkiln:camerakit:0.13.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/af27958e355f0fe90ad9eb52d8b83af0/jetified-camerakit-0.13.1/AndroidManifest.xml:18:5-20:36
+	android:required
+		ADDED from [com.wonderkiln:camerakit:0.13.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/af27958e355f0fe90ad9eb52d8b83af0/jetified-camerakit-0.13.1/AndroidManifest.xml:20:9-33
+	android:name
+		ADDED from [com.wonderkiln:camerakit:0.13.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/af27958e355f0fe90ad9eb52d8b83af0/jetified-camerakit-0.13.1/AndroidManifest.xml:19:9-53
+uses-feature#android.hardware.microphone
+ADDED from [com.wonderkiln:camerakit:0.13.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/af27958e355f0fe90ad9eb52d8b83af0/jetified-camerakit-0.13.1/AndroidManifest.xml:21:5-23:36
+	android:required
+		ADDED from [com.wonderkiln:camerakit:0.13.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/af27958e355f0fe90ad9eb52d8b83af0/jetified-camerakit-0.13.1/AndroidManifest.xml:23:9-33
+	android:name
+		ADDED from [com.wonderkiln:camerakit:0.13.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/af27958e355f0fe90ad9eb52d8b83af0/jetified-camerakit-0.13.1/AndroidManifest.xml:22:9-51
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:2:1-84:12 reason: com.wonderkiln.camerakit.core requested WRITE_EXTERNAL_STORAGE
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-ml-vision:23.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9ef9910e8c63f44804b59c959b9c487c/jetified-firebase-ml-vision-23.0.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-ml-common:21.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/f950402db7cffaf1dae71187e3a60511/jetified-firebase-ml-common-21.0.0/AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-ml-common:21.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/f950402db7cffaf1dae71187e3a60511/jetified-firebase-ml-common-21.0.0/AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/8b79a5462243e267f2798afb4d82885f/jetified-firebase-iid-21.1.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/8b79a5462243e267f2798afb4d82885f/jetified-firebase-iid-21.1.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/693a3366ee531a6a1802b2ca4b396e3f/jetified-play-services-measurement-api-19.0.0/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/693a3366ee531a6a1802b2ca4b396e3f/jetified-play-services-measurement-api-19.0.0/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/1251f431fa1cdcc135e150ea6d84a29a/jetified-firebase-installations-17.0.0/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/1251f431fa1cdcc135e150ea6d84a29a/jetified-firebase-installations-17.0.0/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/ef8b0316f80304d8bf2f413ed9f71732/jetified-firebase-common-20.0.0/AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/ef8b0316f80304d8bf2f413ed9f71732/jetified-firebase-common-20.0.0/AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-ml-vision:23.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9ef9910e8c63f44804b59c959b9c487c/jetified-firebase-ml-vision-23.0.0/AndroidManifest.xml:11:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/ef8b0316f80304d8bf2f413ed9f71732/jetified-firebase-common-20.0.0/AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/ef8b0316f80304d8bf2f413ed9f71732/jetified-firebase-common-20.0.0/AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-ml-vision:23.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9ef9910e8c63f44804b59c959b9c487c/jetified-firebase-ml-vision-23.0.0/AndroidManifest.xml:10:13-84
+meta-data#com.google.firebase.components:com.google.firebase.ml.vision.VisionRegistrar
+ADDED from [com.google.firebase:firebase-ml-vision:23.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9ef9910e8c63f44804b59c959b9c487c/jetified-firebase-ml-vision-23.0.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-ml-vision:23.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9ef9910e8c63f44804b59c959b9c487c/jetified-firebase-ml-vision-23.0.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-ml-vision:23.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9ef9910e8c63f44804b59c959b9c487c/jetified-firebase-ml-vision-23.0.0/AndroidManifest.xml:13:17-108
+service#com.google.mlkit.common.internal.MlKitComponentDiscoveryService
+ADDED from [com.google.android.gms:play-services-mlkit-face-detection:16.1.7] /home/prafull/.gradle/caches/transforms-2/files-2.1/5957eff893f5969f99500345301bd1bf/jetified-play-services-mlkit-face-detection-16.1.7/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:16.3.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/6f6cf929c322958309c685d51dc2f2f3/jetified-vision-common-16.3.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:16.3.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/6f6cf929c322958309c685d51dc2f2f3/jetified-vision-common-16.3.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:common:17.1.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/749cccfd7b39045a1549aaa2bc2b2dd3/jetified-common-17.1.1/AndroidManifest.xml:15:9-23:19
+MERGED from [com.google.mlkit:common:17.1.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/749cccfd7b39045a1549aaa2bc2b2dd3/jetified-common-17.1.1/AndroidManifest.xml:15:9-23:19
+	android:exported
+		ADDED from [com.google.android.gms:play-services-mlkit-face-detection:16.1.7] /home/prafull/.gradle/caches/transforms-2/files-2.1/5957eff893f5969f99500345301bd1bf/jetified-play-services-mlkit-face-detection-16.1.7/AndroidManifest.xml:11:13-37
+	tools:targetApi
+		ADDED from [com.google.mlkit:common:17.1.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/749cccfd7b39045a1549aaa2bc2b2dd3/jetified-common-17.1.1/AndroidManifest.xml:19:13-32
+	android:directBootAware
+		ADDED from [com.google.mlkit:common:17.1.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/749cccfd7b39045a1549aaa2bc2b2dd3/jetified-common-17.1.1/AndroidManifest.xml:17:13-43
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-face-detection:16.1.7] /home/prafull/.gradle/caches/transforms-2/files-2.1/5957eff893f5969f99500345301bd1bf/jetified-play-services-mlkit-face-detection-16.1.7/AndroidManifest.xml:10:13-91
+meta-data#com.google.firebase.components:com.google.mlkit.vision.face.internal.FaceRegistrar
+ADDED from [com.google.android.gms:play-services-mlkit-face-detection:16.1.7] /home/prafull/.gradle/caches/transforms-2/files-2.1/5957eff893f5969f99500345301bd1bf/jetified-play-services-mlkit-face-detection-16.1.7/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-mlkit-face-detection:16.1.7] /home/prafull/.gradle/caches/transforms-2/files-2.1/5957eff893f5969f99500345301bd1bf/jetified-play-services-mlkit-face-detection-16.1.7/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-face-detection:16.1.7] /home/prafull/.gradle/caches/transforms-2/files-2.1/5957eff893f5969f99500345301bd1bf/jetified-play-services-mlkit-face-detection-16.1.7/AndroidManifest.xml:13:17-114
+meta-data#com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar
+ADDED from [com.google.mlkit:vision-common:16.3.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/6f6cf929c322958309c685d51dc2f2f3/jetified-vision-common-16.3.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.mlkit:vision-common:16.3.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/6f6cf929c322958309c685d51dc2f2f3/jetified-vision-common-16.3.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.mlkit:vision-common:16.3.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/6f6cf929c322958309c685d51dc2f2f3/jetified-vision-common-16.3.0/AndroidManifest.xml:13:17-124
+provider#com.google.mlkit.common.internal.MlKitInitProvider
+ADDED from [com.google.mlkit:common:17.1.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/749cccfd7b39045a1549aaa2bc2b2dd3/jetified-common-17.1.1/AndroidManifest.xml:9:9-13:38
+	android:authorities
+		ADDED from [com.google.mlkit:common:17.1.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/749cccfd7b39045a1549aaa2bc2b2dd3/jetified-common-17.1.1/AndroidManifest.xml:11:13-69
+	android:exported
+		ADDED from [com.google.mlkit:common:17.1.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/749cccfd7b39045a1549aaa2bc2b2dd3/jetified-common-17.1.1/AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.mlkit:common:17.1.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/749cccfd7b39045a1549aaa2bc2b2dd3/jetified-common-17.1.1/AndroidManifest.xml:13:13-35
+	android:name
+		ADDED from [com.google.mlkit:common:17.1.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/749cccfd7b39045a1549aaa2bc2b2dd3/jetified-common-17.1.1/AndroidManifest.xml:10:13-78
+meta-data#com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar
+ADDED from [com.google.mlkit:common:17.1.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/749cccfd7b39045a1549aaa2bc2b2dd3/jetified-common-17.1.1/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.mlkit:common:17.1.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/749cccfd7b39045a1549aaa2bc2b2dd3/jetified-common-17.1.1/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.mlkit:common:17.1.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/749cccfd7b39045a1549aaa2bc2b2dd3/jetified-common-17.1.1/AndroidManifest.xml:21:17-120
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /home/prafull/.gradle/caches/transforms-2/files-2.1/c5db305ce4ab76c8c706c500d1f205a8/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/8b79a5462243e267f2798afb4d82885f/jetified-firebase-iid-21.1.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/8b79a5462243e267f2798afb4d82885f/jetified-firebase-iid-21.1.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/693a3366ee531a6a1802b2ca4b396e3f/jetified-play-services-measurement-api-19.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/693a3366ee531a6a1802b2ca4b396e3f/jetified-play-services-measurement-api-19.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/1251f431fa1cdcc135e150ea6d84a29a/jetified-firebase-installations-17.0.0/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/1251f431fa1cdcc135e150ea6d84a29a/jetified-firebase-installations-17.0.0/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e2f8e045e2bfa31a157ea23b9c213426/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e2f8e045e2bfa31a157ea23b9c213426/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9233ebf747a6a012b634e7fae8213459/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9233ebf747a6a012b634e7fae8213459/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/ed09d4beef712ef5a2557a1c222f70c3/jetified-play-services-measurement-impl-19.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/ed09d4beef712ef5a2557a1c222f70c3/jetified-play-services-measurement-impl-19.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/26b2dd075624ff93f377d292cb856491/jetified-play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/26b2dd075624ff93f377d292cb856491/jetified-play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /home/prafull/.gradle/caches/transforms-2/files-2.1/d3c44da04be5ca732b32c9acba24fc3d/jetified-transport-runtime-2.2.6/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /home/prafull/.gradle/caches/transforms-2/files-2.1/d3c44da04be5ca732b32c9acba24fc3d/jetified-transport-runtime-2.2.6/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /home/prafull/.gradle/caches/transforms-2/files-2.1/c5db305ce4ab76c8c706c500d1f205a8/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /home/prafull/.gradle/caches/transforms-2/files-2.1/c5db305ce4ab76c8c706c500d1f205a8/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/8b79a5462243e267f2798afb4d82885f/jetified-firebase-iid-21.1.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:21.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/8b79a5462243e267f2798afb4d82885f/jetified-firebase-iid-21.1.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/693a3366ee531a6a1802b2ca4b396e3f/jetified-play-services-measurement-api-19.0.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/693a3366ee531a6a1802b2ca4b396e3f/jetified-play-services-measurement-api-19.0.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/1251f431fa1cdcc135e150ea6d84a29a/jetified-firebase-installations-17.0.0/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/1251f431fa1cdcc135e150ea6d84a29a/jetified-firebase-installations-17.0.0/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e2f8e045e2bfa31a157ea23b9c213426/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e2f8e045e2bfa31a157ea23b9c213426/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9233ebf747a6a012b634e7fae8213459/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9233ebf747a6a012b634e7fae8213459/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/ed09d4beef712ef5a2557a1c222f70c3/jetified-play-services-measurement-impl-19.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/ed09d4beef712ef5a2557a1c222f70c3/jetified-play-services-measurement-impl-19.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/26b2dd075624ff93f377d292cb856491/jetified-play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/26b2dd075624ff93f377d292cb856491/jetified-play-services-measurement-sdk-api-19.0.0/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /home/prafull/.gradle/caches/transforms-2/files-2.1/c5db305ce4ab76c8c706c500d1f205a8/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:26:22-64
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /home/prafull/.gradle/caches/transforms-2/files-2.1/c5db305ce4ab76c8c706c500d1f205a8/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /home/prafull/.gradle/caches/transforms-2/files-2.1/d3c44da04be5ca732b32c9acba24fc3d/jetified-transport-runtime-2.2.6/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /home/prafull/.gradle/caches/transforms-2/files-2.1/d3c44da04be5ca732b32c9acba24fc3d/jetified-transport-runtime-2.2.6/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /home/prafull/.gradle/caches/transforms-2/files-2.1/c5db305ce4ab76c8c706c500d1f205a8/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /home/prafull/.gradle/caches/transforms-2/files-2.1/c5db305ce4ab76c8c706c500d1f205a8/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /home/prafull/.gradle/caches/transforms-2/files-2.1/c5db305ce4ab76c8c706c500d1f205a8/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /home/prafull/.gradle/caches/transforms-2/files-2.1/c5db305ce4ab76c8c706c500d1f205a8/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /home/prafull/.gradle/caches/transforms-2/files-2.1/c5db305ce4ab76c8c706c500d1f205a8/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:33:17-94
+meta-data#com.google.firebase.components:com.google.firebase.ml.common.CommonComponentRegistrar
+ADDED from [com.google.firebase:firebase-ml-common:21.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/f950402db7cffaf1dae71187e3a60511/jetified-firebase-ml-common-21.0.0/AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-ml-common:21.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/f950402db7cffaf1dae71187e3a60511/jetified-firebase-ml-common-21.0.0/AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-ml-common:21.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/f950402db7cffaf1dae71187e3a60511/jetified-firebase-ml-common-21.0.0/AndroidManifest.xml:12:17-117
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:21.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/8b79a5462243e267f2798afb4d82885f/jetified-firebase-iid-21.1.0/AndroidManifest.xml:26:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9233ebf747a6a012b634e7fae8213459/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9233ebf747a6a012b634e7fae8213459/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:21.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/8b79a5462243e267f2798afb4d82885f/jetified-firebase-iid-21.1.0/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:21.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/8b79a5462243e267f2798afb4d82885f/jetified-firebase-iid-21.1.0/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:21.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/8b79a5462243e267f2798afb4d82885f/jetified-firebase-iid-21.1.0/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:21.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/8b79a5462243e267f2798afb4d82885f/jetified-firebase-iid-21.1.0/AndroidManifest.xml:33:17-96
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/693a3366ee531a6a1802b2ca4b396e3f/jetified-play-services-measurement-api-19.0.0/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/693a3366ee531a6a1802b2ca4b396e3f/jetified-play-services-measurement-api-19.0.0/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/693a3366ee531a6a1802b2ca4b396e3f/jetified-play-services-measurement-api-19.0.0/AndroidManifest.xml:31:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/1251f431fa1cdcc135e150ea6d84a29a/jetified-firebase-installations-17.0.0/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/1251f431fa1cdcc135e150ea6d84a29a/jetified-firebase-installations-17.0.0/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/1251f431fa1cdcc135e150ea6d84a29a/jetified-firebase-installations-17.0.0/AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/ef8b0316f80304d8bf2f413ed9f71732/jetified-firebase-common-20.0.0/AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/ef8b0316f80304d8bf2f413ed9f71732/jetified-firebase-common-20.0.0/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/ef8b0316f80304d8bf2f413ed9f71732/jetified-firebase-common-20.0.0/AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/ef8b0316f80304d8bf2f413ed9f71732/jetified-firebase-common-20.0.0/AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/ef8b0316f80304d8bf2f413ed9f71732/jetified-firebase-common-20.0.0/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/ef8b0316f80304d8bf2f413ed9f71732/jetified-firebase-common-20.0.0/AndroidManifest.xml:27:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.6.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/a284857c9c60b07751a3fa18d5c0198c/jetified-play-services-base-17.6.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.6.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/a284857c9c60b07751a3fa18d5c0198c/jetified-play-services-base-17.6.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.6.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/a284857c9c60b07751a3fa18d5c0198c/jetified-play-services-base-17.6.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.6.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/a284857c9c60b07751a3fa18d5c0198c/jetified-play-services-base-17.6.0/AndroidManifest.xml:24:13-79
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e2f8e045e2bfa31a157ea23b9c213426/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/ed09d4beef712ef5a2557a1c222f70c3/jetified-play-services-measurement-impl-19.0.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/ed09d4beef712ef5a2557a1c222f70c3/jetified-play-services-measurement-impl-19.0.0/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e2f8e045e2bfa31a157ea23b9c213426/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e2f8e045e2bfa31a157ea23b9c213426/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e2f8e045e2bfa31a157ea23b9c213426/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e2f8e045e2bfa31a157ea23b9c213426/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e2f8e045e2bfa31a157ea23b9c213426/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e2f8e045e2bfa31a157ea23b9c213426/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e2f8e045e2bfa31a157ea23b9c213426/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e2f8e045e2bfa31a157ea23b9c213426/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e2f8e045e2bfa31a157ea23b9c213426/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e2f8e045e2bfa31a157ea23b9c213426/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e2f8e045e2bfa31a157ea23b9c213426/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e2f8e045e2bfa31a157ea23b9c213426/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e2f8e045e2bfa31a157ea23b9c213426/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e2f8e045e2bfa31a157ea23b9c213426/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:40:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.6.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/b84ee5920effebd3aad033167d08b830/jetified-play-services-basement-17.6.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.6.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/b84ee5920effebd3aad033167d08b830/jetified-play-services-basement-17.6.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.6.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/b84ee5920effebd3aad033167d08b830/jetified-play-services-basement-17.6.0/AndroidManifest.xml:24:13-58
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /home/prafull/.gradle/caches/transforms-2/files-2.1/d3c44da04be5ca732b32c9acba24fc3d/jetified-transport-runtime-2.2.6/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /home/prafull/.gradle/caches/transforms-2/files-2.1/d3c44da04be5ca732b32c9acba24fc3d/jetified-transport-runtime-2.2.6/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /home/prafull/.gradle/caches/transforms-2/files-2.1/d3c44da04be5ca732b32c9acba24fc3d/jetified-transport-runtime-2.2.6/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /home/prafull/.gradle/caches/transforms-2/files-2.1/d3c44da04be5ca732b32c9acba24fc3d/jetified-transport-runtime-2.2.6/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /home/prafull/.gradle/caches/transforms-2/files-2.1/d3c44da04be5ca732b32c9acba24fc3d/jetified-transport-runtime-2.2.6/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /home/prafull/.gradle/caches/transforms-2/files-2.1/d3c44da04be5ca732b32c9acba24fc3d/jetified-transport-runtime-2.2.6/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /home/prafull/.gradle/caches/transforms-2/files-2.1/d3c44da04be5ca732b32c9acba24fc3d/jetified-transport-runtime-2.2.6/AndroidManifest.xml:33:13-132

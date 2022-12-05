@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">EarlyBird</string>
+    <string name="setting">Settings</string>
+    <string name="mapout">Mapout</string>
+    <string name="about">About</string>
+    <string name="open_navigation_drawer">Open Navigation Drawer</string>
+    <string name="close_navigation_drawer">Close Navigation Drawer</string>
+    <string name="everyday">Everyday</string>
+    <string name="save">SAVE</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
+    <string name="mapOut">MAP OUT</string>
+    <string name="spMapout">MapOut</string>
+
+    <string name="tfe_od_app_name" translation_description="Object Detection demo app [CHAR_LIMIT=40]">EarlyBird</string>
+    <string name="tfe_od_camera_error" translation_description="Error regarding camera support[CHAR_LIMIT=40]">This device doesn\'t support Camera2 API.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="info_desc">Early Bird is a smart A.I. powered Alarm Clock App which will stop once the user Start Brushing. It brings pure alarm experience to you by combining powerful features and clean interface. \nThe interface of our Alarm clock is designed to be simple, intuitive and efficient. By removing what is not essential, and adding the A.I. mode, we tried every possible way to wake you up.</string>
+
+    <string name="from_underdog">Underdog Developer</string>
+    <string name="instruction">Instructions : </string>
+</resources>

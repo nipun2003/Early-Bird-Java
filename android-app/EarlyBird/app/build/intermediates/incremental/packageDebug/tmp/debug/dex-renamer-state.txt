@@ -1,0 +1,4 @@
+#Wed Jul 28 19:55:01 IST 2021
+base.0=D\:\\Early-Bird\\android-app\\EarlyBird\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

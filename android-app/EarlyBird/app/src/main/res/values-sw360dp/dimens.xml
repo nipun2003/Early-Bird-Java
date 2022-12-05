@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="daysSelectorTextsize">20sp</dimen>
+    <dimen name="daySelectorWidth">53dp</dimen>
+    <dimen name="crollerBottomMargin">20dp</dimen>
+    <dimen name="saveMarginBottom">75dp</dimen>
+    <dimen name="setAlarmTimeSquare">50dp</dimen>
+
+    <dimen name="tfe_bottom_sheet_corner_radius">15dp</dimen>
+    <dimen name="tfe_bottom_sheet_top_padding">8dp</dimen>
+
+    <dimen name="mainTextSizeDetector">22sp</dimen>
+    <dimen name="app_name_text_size">42sp</dimen>
+    <dimen name="marginStartDetector">8dp</dimen>
+    <dimen name="textSizeNormalDetector">17sp</dimen>
+    <dimen name="textSizeMainActivityDays">18sp</dimen>
+</resources>

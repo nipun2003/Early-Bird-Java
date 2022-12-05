@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "676601953694",
+    "project_id": "earlybird-87228",
+    "storage_bucket": "earlybird-87228.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676601953694:android:ce527a196cffecd194aa8f",
+        "android_client_info": {
+          "package_name": "com.underdogdeveloper.earlybird"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676601953694-7s306nhtppnuq3o0khht9s7bnn20lnl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0nUYNZpXX1JNGJWqew8m8VpL2NwMjzjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676601953694-7s306nhtppnuq3o0khht9s7bnn20lnl7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

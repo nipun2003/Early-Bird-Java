@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sw360dp-v13/values-sw360dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/res/values-sw360dp/dimens.xml",
+                    "from": {
+                        "startLines": "12,4,3,2,11,13,5,6,14,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "479,155,107,55,427,529,206,254,579,305,367",
+                        "endColumns": "49,50,47,51,51,49,47,49,53,61,58",
+                        "endOffsets": "524,201,150,102,474,574,249,299,628,362,421"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,105,156,204,256,308,358,406,456,510,572",
+                        "endColumns": "49,50,47,51,51,49,47,49,53,61,58",
+                        "endOffsets": "100,151,199,251,303,353,401,451,505,567,626"
+                    }
+                }
+            ]
+        }
+    ]
+}

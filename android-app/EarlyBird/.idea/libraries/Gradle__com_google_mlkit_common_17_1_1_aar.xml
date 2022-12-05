@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.mlkit:common:17.1.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/caches/transforms-2/files-2.1/6f46b6ef669851fa6ecb7387a791cc26/jetified-common-17.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/caches/transforms-2/files-2.1/6f46b6ef669851fa6ecb7387a791cc26/jetified-common-17.1.1/res" />
+      <root url="file://$USER_HOME$/Downloads/caches/transforms-2/files-2.1/6f46b6ef669851fa6ecb7387a791cc26/jetified-common-17.1.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6f46b6ef669851fa6ecb7387a791cc26/jetified-common-17.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/749cccfd7b39045a1549aaa2bc2b2dd3/jetified-common-17.1.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/749cccfd7b39045a1549aaa2bc2b2dd3/jetified-common-17.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/749cccfd7b39045a1549aaa2bc2b2dd3/jetified-common-17.1.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/caches/modules-2/files-2.1/com.google.mlkit/common/17.1.1/da30d3248e4348162a9fe4bd66a419732fc1de77/common-17.1.1-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.mlkit/common/17.1.1/da30d3248e4348162a9fe4bd66a419732fc1de77/common-17.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

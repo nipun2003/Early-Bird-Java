@@ -1,0 +1,104 @@
+com/underdogdeveloper/earlybird/BroadCasts/OnRebootReciever.java
+ com.underdogdeveloper.earlybird.BroadCasts.OnRebootReciever
+com/underdogdeveloper/earlybird/tracking/MultiBoxTracker.java
+ com.underdogdeveloper.earlybird.tracking.MultiBoxTracker
+ com.underdogdeveloper.earlybird.tracking.MultiBoxTracker$1
+ com.underdogdeveloper.earlybird.tracking.MultiBoxTracker$TrackedRecognition
+com/underdogdeveloper/earlybird/DbHandler.java
+ com.underdogdeveloper.earlybird.DbHandler
+com/underdogdeveloper/earlybird/tflite/Classifier.java
+ com.underdogdeveloper.earlybird.tflite.Classifier
+ com.underdogdeveloper.earlybird.tflite.Classifier$Recognition
+com/underdogdeveloper/earlybird/customview/OverlayView.java
+ com.underdogdeveloper.earlybird.customview.OverlayView
+ com.underdogdeveloper.earlybird.customview.OverlayView$DrawCallback
+com/underdogdeveloper/earlybird/Helper/GraphicOverlay.java
+ com.underdogdeveloper.earlybird.Helper.GraphicOverlay
+ com.underdogdeveloper.earlybird.Helper.GraphicOverlay$Graphic
+com/underdogdeveloper/earlybird/Helper/RectOverlay.java
+ com.underdogdeveloper.earlybird.Helper.RectOverlay
+com/underdogdeveloper/earlybird/env/Logger.java
+ com.underdogdeveloper.earlybird.env.Logger
+com/underdogdeveloper/earlybird/Models/TimeModel.java
+ com.underdogdeveloper.earlybird.Models.TimeModel
+com/underdogdeveloper/earlybird/Models/AlarmModel.java
+ com.underdogdeveloper.earlybird.Models.AlarmModel
+com/underdogdeveloper/earlybird/BroadCasts/AlarmReciever.java
+ com.underdogdeveloper.earlybird.BroadCasts.AlarmReciever
+com/underdogdeveloper/earlybird/env/BorderedText.java
+ com.underdogdeveloper.earlybird.env.BorderedText
+com/underdogdeveloper/earlybird/customview/AutoFitTextureView.java
+ com.underdogdeveloper.earlybird.customview.AutoFitTextureView
+com/underdogdeveloper/earlybird/tflite/TFLiteObjectDetectionAPIModel.java
+ com.underdogdeveloper.earlybird.tflite.TFLiteObjectDetectionAPIModel
+com/underdogdeveloper/earlybird/env/ImageUtils.java
+ com.underdogdeveloper.earlybird.env.ImageUtils
+com/underdogdeveloper/earlybird/BuildConfig.java
+ com.underdogdeveloper.earlybird.BuildConfig
+com/underdogdeveloper/earlybird/env/Size.java
+ com.underdogdeveloper.earlybird.env.Size
+com/underdogdeveloper/earlybird/Activities/CameraConnectionFragment.java
+ com.underdogdeveloper.earlybird.Activities.CameraConnectionFragment
+ com.underdogdeveloper.earlybird.Activities.CameraConnectionFragment$1
+ com.underdogdeveloper.earlybird.Activities.CameraConnectionFragment$2
+ com.underdogdeveloper.earlybird.Activities.CameraConnectionFragment$3
+ com.underdogdeveloper.earlybird.Activities.CameraConnectionFragment$4
+ com.underdogdeveloper.earlybird.Activities.CameraConnectionFragment$5
+ com.underdogdeveloper.earlybird.Activities.CameraConnectionFragment$CompareSizesByArea
+ com.underdogdeveloper.earlybird.Activities.CameraConnectionFragment$ConnectionCallback
+ com.underdogdeveloper.earlybird.Activities.CameraConnectionFragment$ErrorDialog
+ com.underdogdeveloper.earlybird.Activities.CameraConnectionFragment$ErrorDialog$1
+com/underdogdeveloper/earlybird/Activities/MainActivity.java
+ com.underdogdeveloper.earlybird.Activities.MainActivity
+ com.underdogdeveloper.earlybird.Activities.MainActivity$1
+ com.underdogdeveloper.earlybird.Activities.MainActivity$2
+com/underdogdeveloper/earlybird/Activities/SettingsActivity.java
+ com.underdogdeveloper.earlybird.Activities.SettingsActivity
+com/underdogdeveloper/earlybird/service/AlarmService.java
+ com.underdogdeveloper.earlybird.service.AlarmService
+ com.underdogdeveloper.earlybird.service.AlarmService$1
+com/underdogdeveloper/earlybird/Views/AnalogClockView.java
+ com.underdogdeveloper.earlybird.Views.AnalogClockView
+com/underdogdeveloper/earlybird/Activities/LegacyCameraConnectionFragment.java
+ com.underdogdeveloper.earlybird.Activities.LegacyCameraConnectionFragment
+ com.underdogdeveloper.earlybird.Activities.LegacyCameraConnectionFragment$1
+com/underdogdeveloper/earlybird/Activities/SetAlarmActivity.java
+ com.underdogdeveloper.earlybird.Activities.SetAlarmActivity
+ com.underdogdeveloper.earlybird.Activities.SetAlarmActivity$1
+ com.underdogdeveloper.earlybird.Activities.SetAlarmActivity$2
+com/underdogdeveloper/earlybird/Activities/ShowAlarmActivity.java
+ com.underdogdeveloper.earlybird.Activities.ShowAlarmActivity
+com/underdogdeveloper/earlybird/Adapters/AlarmAdapter.java
+ com.underdogdeveloper.earlybird.Adapters.AlarmAdapter
+ com.underdogdeveloper.earlybird.Adapters.AlarmAdapter$1
+ com.underdogdeveloper.earlybird.Adapters.AlarmAdapter$2
+ com.underdogdeveloper.earlybird.Adapters.AlarmAdapter$3
+ com.underdogdeveloper.earlybird.Adapters.AlarmAdapter$3$1
+ com.underdogdeveloper.earlybird.Adapters.AlarmAdapter$4
+ com.underdogdeveloper.earlybird.Adapters.AlarmAdapter$4$1
+ com.underdogdeveloper.earlybird.Adapters.AlarmAdapter$5
+ com.underdogdeveloper.earlybird.Adapters.AlarmAdapter$viewHolder
+com/underdogdeveloper/earlybird/Activities/InfoActivity.java
+ com.underdogdeveloper.earlybird.Activities.InfoActivity
+com/underdogdeveloper/earlybird/Activities/SetMapoutActivity.java
+ com.underdogdeveloper.earlybird.Activities.SetMapoutActivity
+ com.underdogdeveloper.earlybird.Activities.SetMapoutActivity$1
+ com.underdogdeveloper.earlybird.Activities.SetMapoutActivity$2
+com/underdogdeveloper/earlybird/Activities/DetectorActivity.java
+ com.underdogdeveloper.earlybird.Activities.DetectorActivity
+ com.underdogdeveloper.earlybird.Activities.DetectorActivity$1
+ com.underdogdeveloper.earlybird.Activities.DetectorActivity$2
+ com.underdogdeveloper.earlybird.Activities.DetectorActivity$3
+ com.underdogdeveloper.earlybird.Activities.DetectorActivity$3$1
+ com.underdogdeveloper.earlybird.Activities.DetectorActivity$4
+ com.underdogdeveloper.earlybird.Activities.DetectorActivity$5
+ com.underdogdeveloper.earlybird.Activities.DetectorActivity$DetectorMode
+com/underdogdeveloper/earlybird/Activities/FaceDetectionActivity.java
+ com.underdogdeveloper.earlybird.Activities.FaceDetectionActivity
+ com.underdogdeveloper.earlybird.Activities.FaceDetectionActivity$1
+ com.underdogdeveloper.earlybird.Activities.FaceDetectionActivity$2
+ com.underdogdeveloper.earlybird.Activities.FaceDetectionActivity$3
+ com.underdogdeveloper.earlybird.Activities.FaceDetectionActivity$4
+ com.underdogdeveloper.earlybird.Activities.FaceDetectionActivity$5
+ com.underdogdeveloper.earlybird.Activities.FaceDetectionActivity$6
+ com.underdogdeveloper.earlybird.Activities.FaceDetectionActivity$7

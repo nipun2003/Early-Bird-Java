@@ -1,0 +1,391 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.underdogdeveloper.earlybird"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+11-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:5:5-81
+11-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:5:22-78
+12    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+12-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:6:5-77
+12-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:6:22-74
+13    <uses-permission android:name="android.permission.VIBRATE" />
+13-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:7:5-66
+13-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:7:22-63
+14    <uses-permission android:name="android.permission.USE_FULL_SCREEN_INTENT" />
+14-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:8:5-81
+14-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:8:22-78
+15    <uses-permission android:name="android.permission.CAMERA" />
+15-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:9:5-65
+15-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:9:22-62
+16    <uses-permission android:name="android.permission.WAKE_LOCK" />
+16-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:10:5-68
+16-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:10:22-65
+17    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+17-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:11:5-80
+17-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:11:22-77
+18    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+18-->[com.wonderkiln:camerakit:0.13.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/af27958e355f0fe90ad9eb52d8b83af0/jetified-camerakit-0.13.1/AndroidManifest.xml:10:5-81
+18-->[com.wonderkiln:camerakit:0.13.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/af27958e355f0fe90ad9eb52d8b83af0/jetified-camerakit-0.13.1/AndroidManifest.xml:10:22-78
+19    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+19-->[com.wonderkiln:camerakit:0.13.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/af27958e355f0fe90ad9eb52d8b83af0/jetified-camerakit-0.13.1/AndroidManifest.xml:12:5-71
+19-->[com.wonderkiln:camerakit:0.13.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/af27958e355f0fe90ad9eb52d8b83af0/jetified-camerakit-0.13.1/AndroidManifest.xml:12:22-68
+20
+21    <uses-feature android:name="android.hardware.camera" />
+21-->[com.wonderkiln:camerakit:0.13.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/af27958e355f0fe90ad9eb52d8b83af0/jetified-camerakit-0.13.1/AndroidManifest.xml:14:5-60
+21-->[com.wonderkiln:camerakit:0.13.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/af27958e355f0fe90ad9eb52d8b83af0/jetified-camerakit-0.13.1/AndroidManifest.xml:14:19-57
+22    <uses-feature
+22-->[com.wonderkiln:camerakit:0.13.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/af27958e355f0fe90ad9eb52d8b83af0/jetified-camerakit-0.13.1/AndroidManifest.xml:15:5-17:36
+23        android:name="android.hardware.camera.autofocus"
+23-->[com.wonderkiln:camerakit:0.13.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/af27958e355f0fe90ad9eb52d8b83af0/jetified-camerakit-0.13.1/AndroidManifest.xml:16:9-57
+24        android:required="false" />
+24-->[com.wonderkiln:camerakit:0.13.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/af27958e355f0fe90ad9eb52d8b83af0/jetified-camerakit-0.13.1/AndroidManifest.xml:17:9-33
+25    <uses-feature
+25-->[com.wonderkiln:camerakit:0.13.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/af27958e355f0fe90ad9eb52d8b83af0/jetified-camerakit-0.13.1/AndroidManifest.xml:18:5-20:36
+26        android:name="android.hardware.camera.front"
+26-->[com.wonderkiln:camerakit:0.13.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/af27958e355f0fe90ad9eb52d8b83af0/jetified-camerakit-0.13.1/AndroidManifest.xml:19:9-53
+27        android:required="false" />
+27-->[com.wonderkiln:camerakit:0.13.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/af27958e355f0fe90ad9eb52d8b83af0/jetified-camerakit-0.13.1/AndroidManifest.xml:20:9-33
+28    <uses-feature
+28-->[com.wonderkiln:camerakit:0.13.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/af27958e355f0fe90ad9eb52d8b83af0/jetified-camerakit-0.13.1/AndroidManifest.xml:21:5-23:36
+29        android:name="android.hardware.microphone"
+29-->[com.wonderkiln:camerakit:0.13.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/af27958e355f0fe90ad9eb52d8b83af0/jetified-camerakit-0.13.1/AndroidManifest.xml:22:9-51
+30        android:required="false" />
+30-->[com.wonderkiln:camerakit:0.13.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/af27958e355f0fe90ad9eb52d8b83af0/jetified-camerakit-0.13.1/AndroidManifest.xml:23:9-33
+31
+32    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" /> <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+33    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+34    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+34-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /home/prafull/.gradle/caches/transforms-2/files-2.1/c5db305ce4ab76c8c706c500d1f205a8/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
+34-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /home/prafull/.gradle/caches/transforms-2/files-2.1/c5db305ce4ab76c8c706c500d1f205a8/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:22-76
+35    <uses-permission android:name="android.permission.INTERNET" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+35-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /home/prafull/.gradle/caches/transforms-2/files-2.1/c5db305ce4ab76c8c706c500d1f205a8/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:26:5-67
+35-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /home/prafull/.gradle/caches/transforms-2/files-2.1/c5db305ce4ab76c8c706c500d1f205a8/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:26:22-64
+36    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+36-->[com.google.firebase:firebase-iid:21.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/8b79a5462243e267f2798afb4d82885f/jetified-firebase-iid-21.1.0/AndroidManifest.xml:26:5-82
+36-->[com.google.firebase:firebase-iid:21.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/8b79a5462243e267f2798afb4d82885f/jetified-firebase-iid-21.1.0/AndroidManifest.xml:26:22-79
+37    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+37-->[com.google.android.gms:play-services-measurement:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e2f8e045e2bfa31a157ea23b9c213426/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:26:5-110
+37-->[com.google.android.gms:play-services-measurement:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e2f8e045e2bfa31a157ea23b9c213426/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:26:22-107
+38
+39    <application
+39-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:13:5-82:19
+40        android:allowBackup="true"
+40-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:14:9-35
+41        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+41-->[androidx.core:core:1.5.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/de4504a44ff1c2eebbafc7766d076565/core-1.5.0/AndroidManifest.xml:24:18-86
+42        android:icon="@mipmap/ic_launcher"
+42-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:15:9-43
+43        android:label="@string/app_name"
+43-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:16:9-41
+44        android:roundIcon="@mipmap/ic_launcher_round"
+44-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:17:9-54
+45        android:supportsRtl="true"
+45-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:18:9-35
+46        android:theme="@style/splashScreenStyle" >
+46-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:19:9-49
+47        <activity android:name="com.underdogdeveloper.earlybird.Activities.SettingsActivity" />
+47-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:20:9-64
+47-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:20:19-62
+48        <activity
+48-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:21:9-22:53
+49            android:name="com.underdogdeveloper.earlybird.Activities.InfoActivity"
+49-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:21:19-58
+50            android:theme="@style/Theme.EarlyBird" />
+50-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:22:13-51
+51        <activity
+51-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:23:9-26:46
+52            android:name="com.underdogdeveloper.earlybird.Activities.DetectorActivity"
+52-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:24:13-56
+53            android:screenOrientation="portrait"
+53-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:25:13-49
+54            android:theme="@style/appTheme" />
+54-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:26:13-44
+55        <activity android:name="com.underdogdeveloper.earlybird.Activities.FaceDetectionActivity" />
+55-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:27:9-69
+55-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:27:19-67
+56        <activity
+56-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:28:9-32:52
+57            android:name="com.underdogdeveloper.earlybird.Activities.ShowAlarmActivity"
+57-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:29:13-57
+58            android:configChanges="orientation"
+58-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:31:13-48
+59            android:screenOrientation="portrait"
+59-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:32:13-49
+60            android:theme="@style/Theme.EarlyBird" />
+60-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:30:13-51
+61        <activity
+61-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:33:9-37:47
+62            android:name="com.underdogdeveloper.earlybird.Activities.SetMapoutActivity"
+62-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:34:13-57
+63            android:configChanges="orientation"
+63-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:35:13-48
+64            android:screenOrientation="portrait"
+64-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:36:13-49
+65            android:theme="@style/appTheme" />
+65-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:37:13-44
+66        <activity
+66-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:38:9-42:52
+67            android:name="com.underdogdeveloper.earlybird.Activities.SetAlarmActivity"
+67-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:39:13-56
+68            android:configChanges="orientation"
+68-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:41:13-48
+69            android:screenOrientation="portrait"
+69-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:42:13-49
+70            android:theme="@style/Theme.EarlyBird" />
+70-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:40:13-51
+71        <activity
+71-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:43:9-52:20
+72            android:name="com.underdogdeveloper.earlybird.Activities.MainActivity"
+72-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:44:13-52
+73            android:configChanges="orientation"
+73-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:45:13-48
+74            android:screenOrientation="portrait" >
+74-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:46:13-49
+75            <intent-filter>
+75-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:47:13-51:29
+76                <action android:name="android.intent.action.MAIN" />
+76-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:48:17-69
+76-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:48:25-66
+77
+78                <category android:name="android.intent.category.LAUNCHER" />
+78-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:50:17-77
+78-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:50:27-74
+79            </intent-filter>
+80        </activity>
+81
+82        <receiver
+82-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:54:9-63:20
+83            android:name="com.underdogdeveloper.earlybird.BroadCasts.AlarmReciever"
+83-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:55:13-53
+84            android:directBootAware="true"
+84-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:57:13-43
+85            android:enabled="true"
+85-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:56:13-35
+86            android:exported="true" >
+86-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:58:13-36
+87            <intent-filter>
+87-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:59:13-62:29
+88                <action android:name="android.intent.action.NOTIFY" />
+88-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:60:17-71
+88-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:60:25-68
+89
+90                <category android:name="android.intent.category.DEFAULT" />
+90-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:61:17-75
+90-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:61:27-73
+91            </intent-filter>
+92        </receiver>
+93        <receiver android:name="com.underdogdeveloper.earlybird.BroadCasts.OnRebootReciever" >
+93-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:65:9-72:20
+93-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:65:19-62
+94            <intent-filter>
+94-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:66:13-71:29
+95                <action android:name="android.intent.action.BOOT_COMPLETED" />
+95-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:67:17-79
+95-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:67:25-76
+96                <action android:name="android.intent.action.LOCKED_BOOT_COMPLETED" />
+96-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:68:17-85
+96-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:68:25-83
+97                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+97-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:69:17-81
+97-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:69:25-79
+98
+99                <category android:name="android.intent.category.DEFAULT" />
+99-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:61:17-75
+99-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:61:27-73
+100            </intent-filter>
+101        </receiver>
+102
+103        <service android:name="com.underdogdeveloper.earlybird.service.AlarmService" />
+103-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:74:9-57
+103-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:74:18-54
+104
+105        <meta-data
+105-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:76:9-78:57
+106            android:name="preloaded_fonts"
+106-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:77:13-43
+107            android:resource="@array/preloaded_fonts" />
+107-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:78:13-54
+108        <meta-data
+108-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:79:9-81:36
+109            android:name="com.google.mlkit.vision.DEPENDENCIES"
+109-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:80:13-64
+110            android:value="face" />
+110-->/home/prafull/AndroidStudioProjects/Early-Bird/android-app/EarlyBird/app/src/main/AndroidManifest.xml:81:13-33
+111
+112        <service
+112-->[com.google.firebase:firebase-ml-vision:23.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9ef9910e8c63f44804b59c959b9c487c/jetified-firebase-ml-vision-23.0.0/AndroidManifest.xml:9:9-15:19
+113            android:name="com.google.firebase.components.ComponentDiscoveryService"
+113-->[com.google.firebase:firebase-ml-vision:23.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9ef9910e8c63f44804b59c959b9c487c/jetified-firebase-ml-vision-23.0.0/AndroidManifest.xml:10:13-84
+114            android:directBootAware="true"
+114-->[com.google.firebase:firebase-common:20.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/ef8b0316f80304d8bf2f413ed9f71732/jetified-firebase-common-20.0.0/AndroidManifest.xml:35:13-43
+115            android:exported="false" >
+115-->[com.google.firebase:firebase-ml-vision:23.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9ef9910e8c63f44804b59c959b9c487c/jetified-firebase-ml-vision-23.0.0/AndroidManifest.xml:11:13-37
+116            <meta-data
+116-->[com.google.firebase:firebase-ml-vision:23.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9ef9910e8c63f44804b59c959b9c487c/jetified-firebase-ml-vision-23.0.0/AndroidManifest.xml:12:13-14:85
+117                android:name="com.google.firebase.components:com.google.firebase.ml.vision.VisionRegistrar"
+117-->[com.google.firebase:firebase-ml-vision:23.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9ef9910e8c63f44804b59c959b9c487c/jetified-firebase-ml-vision-23.0.0/AndroidManifest.xml:13:17-108
+118                android:value="com.google.firebase.components.ComponentRegistrar" />
+118-->[com.google.firebase:firebase-ml-vision:23.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/9ef9910e8c63f44804b59c959b9c487c/jetified-firebase-ml-vision-23.0.0/AndroidManifest.xml:14:17-82
+119            <meta-data
+119-->[com.google.firebase:firebase-ml-common:21.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/f950402db7cffaf1dae71187e3a60511/jetified-firebase-ml-common-21.0.0/AndroidManifest.xml:11:13-13:85
+120                android:name="com.google.firebase.components:com.google.firebase.ml.common.CommonComponentRegistrar"
+120-->[com.google.firebase:firebase-ml-common:21.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/f950402db7cffaf1dae71187e3a60511/jetified-firebase-ml-common-21.0.0/AndroidManifest.xml:12:17-117
+121                android:value="com.google.firebase.components.ComponentRegistrar" />
+121-->[com.google.firebase:firebase-ml-common:21.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/f950402db7cffaf1dae71187e3a60511/jetified-firebase-ml-common-21.0.0/AndroidManifest.xml:13:17-82
+122            <meta-data
+122-->[com.google.firebase:firebase-iid:21.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/8b79a5462243e267f2798afb4d82885f/jetified-firebase-iid-21.1.0/AndroidManifest.xml:32:13-34:85
+123                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+123-->[com.google.firebase:firebase-iid:21.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/8b79a5462243e267f2798afb4d82885f/jetified-firebase-iid-21.1.0/AndroidManifest.xml:33:17-96
+124                android:value="com.google.firebase.components.ComponentRegistrar" />
+124-->[com.google.firebase:firebase-iid:21.1.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/8b79a5462243e267f2798afb4d82885f/jetified-firebase-iid-21.1.0/AndroidManifest.xml:34:17-82
+125            <meta-data
+125-->[com.google.android.gms:play-services-measurement-api:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/693a3366ee531a6a1802b2ca4b396e3f/jetified-play-services-measurement-api-19.0.0/AndroidManifest.xml:30:13-32:85
+126                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+126-->[com.google.android.gms:play-services-measurement-api:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/693a3366ee531a6a1802b2ca4b396e3f/jetified-play-services-measurement-api-19.0.0/AndroidManifest.xml:31:17-139
+127                android:value="com.google.firebase.components.ComponentRegistrar" />
+127-->[com.google.android.gms:play-services-measurement-api:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/693a3366ee531a6a1802b2ca4b396e3f/jetified-play-services-measurement-api-19.0.0/AndroidManifest.xml:32:17-82
+128            <meta-data
+128-->[com.google.firebase:firebase-installations:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/1251f431fa1cdcc135e150ea6d84a29a/jetified-firebase-installations-17.0.0/AndroidManifest.xml:18:13-20:85
+129                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+129-->[com.google.firebase:firebase-installations:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/1251f431fa1cdcc135e150ea6d84a29a/jetified-firebase-installations-17.0.0/AndroidManifest.xml:19:17-127
+130                android:value="com.google.firebase.components.ComponentRegistrar" />
+130-->[com.google.firebase:firebase-installations:17.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/1251f431fa1cdcc135e150ea6d84a29a/jetified-firebase-installations-17.0.0/AndroidManifest.xml:20:17-82
+131        </service>
+132        <service
+132-->[com.google.android.gms:play-services-mlkit-face-detection:16.1.7] /home/prafull/.gradle/caches/transforms-2/files-2.1/5957eff893f5969f99500345301bd1bf/jetified-play-services-mlkit-face-detection-16.1.7/AndroidManifest.xml:9:9-15:19
+133            android:name="com.google.mlkit.common.internal.MlKitComponentDiscoveryService"
+133-->[com.google.android.gms:play-services-mlkit-face-detection:16.1.7] /home/prafull/.gradle/caches/transforms-2/files-2.1/5957eff893f5969f99500345301bd1bf/jetified-play-services-mlkit-face-detection-16.1.7/AndroidManifest.xml:10:13-91
+134            android:directBootAware="true"
+134-->[com.google.mlkit:common:17.1.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/749cccfd7b39045a1549aaa2bc2b2dd3/jetified-common-17.1.1/AndroidManifest.xml:17:13-43
+135            android:exported="false" >
+135-->[com.google.android.gms:play-services-mlkit-face-detection:16.1.7] /home/prafull/.gradle/caches/transforms-2/files-2.1/5957eff893f5969f99500345301bd1bf/jetified-play-services-mlkit-face-detection-16.1.7/AndroidManifest.xml:11:13-37
+136            <meta-data
+136-->[com.google.android.gms:play-services-mlkit-face-detection:16.1.7] /home/prafull/.gradle/caches/transforms-2/files-2.1/5957eff893f5969f99500345301bd1bf/jetified-play-services-mlkit-face-detection-16.1.7/AndroidManifest.xml:12:13-14:85
+137                android:name="com.google.firebase.components:com.google.mlkit.vision.face.internal.FaceRegistrar"
+137-->[com.google.android.gms:play-services-mlkit-face-detection:16.1.7] /home/prafull/.gradle/caches/transforms-2/files-2.1/5957eff893f5969f99500345301bd1bf/jetified-play-services-mlkit-face-detection-16.1.7/AndroidManifest.xml:13:17-114
+138                android:value="com.google.firebase.components.ComponentRegistrar" />
+138-->[com.google.android.gms:play-services-mlkit-face-detection:16.1.7] /home/prafull/.gradle/caches/transforms-2/files-2.1/5957eff893f5969f99500345301bd1bf/jetified-play-services-mlkit-face-detection-16.1.7/AndroidManifest.xml:14:17-82
+139            <meta-data
+139-->[com.google.mlkit:vision-common:16.3.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/6f6cf929c322958309c685d51dc2f2f3/jetified-vision-common-16.3.0/AndroidManifest.xml:12:13-14:85
+140                android:name="com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar"
+140-->[com.google.mlkit:vision-common:16.3.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/6f6cf929c322958309c685d51dc2f2f3/jetified-vision-common-16.3.0/AndroidManifest.xml:13:17-124
+141                android:value="com.google.firebase.components.ComponentRegistrar" />
+141-->[com.google.mlkit:vision-common:16.3.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/6f6cf929c322958309c685d51dc2f2f3/jetified-vision-common-16.3.0/AndroidManifest.xml:14:17-82
+142            <meta-data
+142-->[com.google.mlkit:common:17.1.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/749cccfd7b39045a1549aaa2bc2b2dd3/jetified-common-17.1.1/AndroidManifest.xml:20:13-22:85
+143                android:name="com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar"
+143-->[com.google.mlkit:common:17.1.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/749cccfd7b39045a1549aaa2bc2b2dd3/jetified-common-17.1.1/AndroidManifest.xml:21:17-120
+144                android:value="com.google.firebase.components.ComponentRegistrar" />
+144-->[com.google.mlkit:common:17.1.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/749cccfd7b39045a1549aaa2bc2b2dd3/jetified-common-17.1.1/AndroidManifest.xml:22:17-82
+145        </service>
+146
+147        <provider
+147-->[com.google.mlkit:common:17.1.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/749cccfd7b39045a1549aaa2bc2b2dd3/jetified-common-17.1.1/AndroidManifest.xml:9:9-13:38
+148            android:name="com.google.mlkit.common.internal.MlKitInitProvider"
+148-->[com.google.mlkit:common:17.1.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/749cccfd7b39045a1549aaa2bc2b2dd3/jetified-common-17.1.1/AndroidManifest.xml:10:13-78
+149            android:authorities="com.underdogdeveloper.earlybird.mlkitinitprovider"
+149-->[com.google.mlkit:common:17.1.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/749cccfd7b39045a1549aaa2bc2b2dd3/jetified-common-17.1.1/AndroidManifest.xml:11:13-69
+150            android:exported="false"
+150-->[com.google.mlkit:common:17.1.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/749cccfd7b39045a1549aaa2bc2b2dd3/jetified-common-17.1.1/AndroidManifest.xml:12:13-37
+151            android:initOrder="99" />
+151-->[com.google.mlkit:common:17.1.1] /home/prafull/.gradle/caches/transforms-2/files-2.1/749cccfd7b39045a1549aaa2bc2b2dd3/jetified-common-17.1.1/AndroidManifest.xml:13:13-35
+152
+153        <service
+153-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /home/prafull/.gradle/caches/transforms-2/files-2.1/c5db305ce4ab76c8c706c500d1f205a8/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:29:9-35:19
+154            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+154-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /home/prafull/.gradle/caches/transforms-2/files-2.1/c5db305ce4ab76c8c706c500d1f205a8/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:30:13-103
+155            android:exported="false" >
+155-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /home/prafull/.gradle/caches/transforms-2/files-2.1/c5db305ce4ab76c8c706c500d1f205a8/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:31:13-37
+156            <meta-data
+156-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /home/prafull/.gradle/caches/transforms-2/files-2.1/c5db305ce4ab76c8c706c500d1f205a8/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:32:13-34:39
+157                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+157-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /home/prafull/.gradle/caches/transforms-2/files-2.1/c5db305ce4ab76c8c706c500d1f205a8/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:33:17-94
+158                android:value="cct" />
+158-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /home/prafull/.gradle/caches/transforms-2/files-2.1/c5db305ce4ab76c8c706c500d1f205a8/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:34:17-36
+159        </service>
+160
+161        <provider
+161-->[com.google.firebase:firebase-common:20.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/ef8b0316f80304d8bf2f413ed9f71732/jetified-firebase-common-20.0.0/AndroidManifest.xml:26:9-31:39
+162            android:name="com.google.firebase.provider.FirebaseInitProvider"
+162-->[com.google.firebase:firebase-common:20.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/ef8b0316f80304d8bf2f413ed9f71732/jetified-firebase-common-20.0.0/AndroidManifest.xml:27:13-77
+163            android:authorities="com.underdogdeveloper.earlybird.firebaseinitprovider"
+163-->[com.google.firebase:firebase-common:20.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/ef8b0316f80304d8bf2f413ed9f71732/jetified-firebase-common-20.0.0/AndroidManifest.xml:28:13-72
+164            android:directBootAware="true"
+164-->[com.google.firebase:firebase-common:20.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/ef8b0316f80304d8bf2f413ed9f71732/jetified-firebase-common-20.0.0/AndroidManifest.xml:29:13-43
+165            android:exported="false"
+165-->[com.google.firebase:firebase-common:20.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/ef8b0316f80304d8bf2f413ed9f71732/jetified-firebase-common-20.0.0/AndroidManifest.xml:30:13-37
+166            android:initOrder="100" />
+166-->[com.google.firebase:firebase-common:20.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/ef8b0316f80304d8bf2f413ed9f71732/jetified-firebase-common-20.0.0/AndroidManifest.xml:31:13-36
+167
+168        <activity
+168-->[com.google.android.gms:play-services-base:17.6.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/a284857c9c60b07751a3fa18d5c0198c/jetified-play-services-base-17.6.0/AndroidManifest.xml:23:9-26:75
+169            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+169-->[com.google.android.gms:play-services-base:17.6.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/a284857c9c60b07751a3fa18d5c0198c/jetified-play-services-base-17.6.0/AndroidManifest.xml:24:13-79
+170            android:exported="false"
+170-->[com.google.android.gms:play-services-base:17.6.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/a284857c9c60b07751a3fa18d5c0198c/jetified-play-services-base-17.6.0/AndroidManifest.xml:25:13-37
+171            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+171-->[com.google.android.gms:play-services-base:17.6.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/a284857c9c60b07751a3fa18d5c0198c/jetified-play-services-base-17.6.0/AndroidManifest.xml:26:13-72
+172
+173        <receiver
+173-->[com.google.android.gms:play-services-measurement:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e2f8e045e2bfa31a157ea23b9c213426/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:29:9-33:20
+174            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+174-->[com.google.android.gms:play-services-measurement:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e2f8e045e2bfa31a157ea23b9c213426/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:30:13-85
+175            android:enabled="true"
+175-->[com.google.android.gms:play-services-measurement:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e2f8e045e2bfa31a157ea23b9c213426/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:31:13-35
+176            android:exported="false" >
+176-->[com.google.android.gms:play-services-measurement:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e2f8e045e2bfa31a157ea23b9c213426/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:32:13-37
+177        </receiver>
+178
+179        <service
+179-->[com.google.android.gms:play-services-measurement:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e2f8e045e2bfa31a157ea23b9c213426/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:35:9-38:40
+180            android:name="com.google.android.gms.measurement.AppMeasurementService"
+180-->[com.google.android.gms:play-services-measurement:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e2f8e045e2bfa31a157ea23b9c213426/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:36:13-84
+181            android:enabled="true"
+181-->[com.google.android.gms:play-services-measurement:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e2f8e045e2bfa31a157ea23b9c213426/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:37:13-35
+182            android:exported="false" />
+182-->[com.google.android.gms:play-services-measurement:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e2f8e045e2bfa31a157ea23b9c213426/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:38:13-37
+183        <service
+183-->[com.google.android.gms:play-services-measurement:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e2f8e045e2bfa31a157ea23b9c213426/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:39:9-43:72
+184            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+184-->[com.google.android.gms:play-services-measurement:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e2f8e045e2bfa31a157ea23b9c213426/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:40:13-87
+185            android:enabled="true"
+185-->[com.google.android.gms:play-services-measurement:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e2f8e045e2bfa31a157ea23b9c213426/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:41:13-35
+186            android:exported="false"
+186-->[com.google.android.gms:play-services-measurement:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e2f8e045e2bfa31a157ea23b9c213426/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:42:13-37
+187            android:permission="android.permission.BIND_JOB_SERVICE" />
+187-->[com.google.android.gms:play-services-measurement:19.0.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/e2f8e045e2bfa31a157ea23b9c213426/jetified-play-services-measurement-19.0.0/AndroidManifest.xml:43:13-69
+188
+189        <meta-data
+189-->[com.google.android.gms:play-services-basement:17.6.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/b84ee5920effebd3aad033167d08b830/jetified-play-services-basement-17.6.0/AndroidManifest.xml:23:9-25:69
+190            android:name="com.google.android.gms.version"
+190-->[com.google.android.gms:play-services-basement:17.6.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/b84ee5920effebd3aad033167d08b830/jetified-play-services-basement-17.6.0/AndroidManifest.xml:24:13-58
+191            android:value="@integer/google_play_services_version" />
+191-->[com.google.android.gms:play-services-basement:17.6.0] /home/prafull/.gradle/caches/transforms-2/files-2.1/b84ee5920effebd3aad033167d08b830/jetified-play-services-basement-17.6.0/AndroidManifest.xml:25:13-66
+192
+193        <service
+193-->[com.google.android.datatransport:transport-runtime:2.2.6] /home/prafull/.gradle/caches/transforms-2/files-2.1/d3c44da04be5ca732b32c9acba24fc3d/jetified-transport-runtime-2.2.6/AndroidManifest.xml:26:9-30:19
+194            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+194-->[com.google.android.datatransport:transport-runtime:2.2.6] /home/prafull/.gradle/caches/transforms-2/files-2.1/d3c44da04be5ca732b32c9acba24fc3d/jetified-transport-runtime-2.2.6/AndroidManifest.xml:27:13-117
+195            android:exported="false"
+195-->[com.google.android.datatransport:transport-runtime:2.2.6] /home/prafull/.gradle/caches/transforms-2/files-2.1/d3c44da04be5ca732b32c9acba24fc3d/jetified-transport-runtime-2.2.6/AndroidManifest.xml:28:13-37
+196            android:permission="android.permission.BIND_JOB_SERVICE" >
+196-->[com.google.android.datatransport:transport-runtime:2.2.6] /home/prafull/.gradle/caches/transforms-2/files-2.1/d3c44da04be5ca732b32c9acba24fc3d/jetified-transport-runtime-2.2.6/AndroidManifest.xml:29:13-69
+197        </service>
+198
+199        <receiver
+199-->[com.google.android.datatransport:transport-runtime:2.2.6] /home/prafull/.gradle/caches/transforms-2/files-2.1/d3c44da04be5ca732b32c9acba24fc3d/jetified-transport-runtime-2.2.6/AndroidManifest.xml:32:9-34:40
+200            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+200-->[com.google.android.datatransport:transport-runtime:2.2.6] /home/prafull/.gradle/caches/transforms-2/files-2.1/d3c44da04be5ca732b32c9acba24fc3d/jetified-transport-runtime-2.2.6/AndroidManifest.xml:33:13-132
+201            android:exported="false" />
+201-->[com.google.android.datatransport:transport-runtime:2.2.6] /home/prafull/.gradle/caches/transforms-2/files-2.1/d3c44da04be5ca732b32c9acba24fc3d/jetified-transport-runtime-2.2.6/AndroidManifest.xml:34:13-37
+202    </application>
+203
+204</manifest>

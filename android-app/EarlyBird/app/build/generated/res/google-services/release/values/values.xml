@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">676601953694-7s306nhtppnuq3o0khht9s7bnn20lnl7.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">676601953694</string>
+    <string name="google_api_key" translatable="false">AIzaSyC0nUYNZpXX1JNGJWqew8m8VpL2NwMjzjk</string>
+    <string name="google_app_id" translatable="false">1:676601953694:android:ce527a196cffecd194aa8f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC0nUYNZpXX1JNGJWqew8m8VpL2NwMjzjk</string>
+    <string name="google_storage_bucket" translatable="false">earlybird-87228.appspot.com</string>
+    <string name="project_id" translatable="false">earlybird-87228</string>
+</resources>
